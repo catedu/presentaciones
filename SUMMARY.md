@@ -19,7 +19,8 @@ ____
 	* [3.1. DRIVE](31_drive.md)
 	* [3.2. DROPBOX](32_dropbox.md)
 * [Para saber más](para_saber_ms.md)
-* [Créditos](crditos.md)
+
+<!--
 ### Módulo 1. EMPEZANDO | MÓDULO 1: EMPEZANDO PRESENTACIONES: PowerPoint, Open Office, Drive y Keynote. 
 * [Módulo 1. EMPEZANDO](index1.md)
 * [Contenidos](contenidos1.md)
@@ -55,7 +56,7 @@ ____
 	* [Diseño en Power Point](diseo_en_power_point.md)
 	* [Diseño en Drive](diseo_en_drive.md)
 	* [Más cosas de diseño](ms_cosas_de_diseo.md)
-* [Créditos](crditos1.md)
+
 ### MÓDULO 2: OBJETOS ESTRUCTURALES | MÓDULO 2: PRESENTACIONES:Tablas, Gráficos y Organigramas 
 * [MÓDULO 2: OBJETOS ESTRUCTURALES](index2.md)
 * [Contenidos](contenidos2.md)
@@ -64,7 +65,7 @@ ____
 * [U.3 Insertar Organigramas](u3_insertar_organigramas.md)
 * [Para saber más](para_saber_ms2.md)
 * [Aplicación didáctica](aplicacin_didctica2.md)
-* [Créditos](crditos2.md)
+
 ### Módulo 3. DINAMIZANDO | MÓDULO 3: DINAMIZANDO PRESENTACIONES: Hiperenlaces, Fondos, numeración de páginas y pie de página.  
 * [Módulo 3. DINAMIZANDO](index3.md)
 * [Contenidos](contenidos3.md)
@@ -82,7 +83,7 @@ ____
 * [U4 Número y pie de página](u4_nmero_y_pie_de_pgina.md)
 * [Para saber más](para_saber_ms3.md)
 * [Aplicación didáctica](aplicacin_didctica3.md)
-* [Créditos](crditos3.md)
+
 ### Módulo 4. PREPARATIVOS. | MÓDULO 5: Animando nuestra presentación, notas de orador y preparativos preponencia 
 * [Módulo 4. PREPARATIVOS.](index4.md)
 * [Contenidos](contenidos4.md)
@@ -93,6 +94,7 @@ ____
 * [U.3. Un poco de hardware.](u3_un_poco_de_hardware.md)
 * [Para saber más](para_saber_ms4.md)
 * [Aplicación Didáctica](aplicacin_didctica4.md)
+
 ### Módulo 5. MULTIMEDIA | MÓDULO 5: Multimedia vídeo y sonido 
 * [Módulo 5. MULTIMEDIA](index5.md)
 * [Contenidos](contenidos5.md)
@@ -120,7 +122,7 @@ ____
 	* [¿Dónde podemos conseguir vídeos educativos?](dnde_podemos_conseguir_vdeos_educativos.md)
 * [Para saber más: Grabar, editar sonido y vídeo](para_saber_ms_grabar_editar_sonido_y_vdeo.md)
 * [Aplicación didáctica](aplicacin_didctica5.md)
-* [Créditos](crditos5.md)
+
 ### Módulo 6: OTROS PROGRAMAS | Módulo 6: Otros programas de presentaciones 
 * [Módulo 6: OTROS PROGRAMAS](index6.md)
 * [Contenidos](contenidos6.md)
@@ -147,4 +149,7 @@ ____
 * [Aplicaciones didácticas](aplicaciones_didcticas.md)
 	* [Ejemplo de trabajo con presentaciones, 2º ciclo de Primaria](ejemplo_de_trabajo_con_presentaciones_2_ciclo_de_primaria.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos6.md)
+-->
+___
+
+* [Créditos](crditos.md)
