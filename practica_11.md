@@ -1,10 +1,10 @@
 # Practica 1.1
 
-**ATENCIÓN RECORDAR: LAS PRÁCTICAS NO SON OBLIGATORIAS NI TENEMOS QUE ENVIARLAS AL TUTOR. **
+**ATENCIÓN RECORDAR: LAS PRÁCTICAS NO SON OBLIGATORIAS NI TENEMOS QUE ENVIARLAS AL TUTOR.**
 
 **Pero si nos ayudan a comprender mejor los programas que vamos a utilizar.**
 
-**1\. Instalar por primera vez PowerPoint.**
+### 1\. Instalar por primera vez PowerPoint.
 
 Si no tenemos instalados los programas probar de instalarlos siguiendo los pasos anteriores.  _(esto sí que es obligatorio,  sino no podemos seguir el curso completo) _
 
@@ -20,7 +20,7 @@ Si nos decantamos por Windows:eligir la opción **Personalizada,** aparecerá un
 
 En este caso, un último cuadro de diálogo avisa que para completar la instalación debe _reiniciar su_ ordenador, haciendo clic sobre el botón **Reiniciar Windows.** Si nos lo pide guardamos todos nuestros trabajos y procedemos al reinicio.
 
-**2\.** **Instalar componentes adicionales**
+### 2\. Instalar componentes adicionales
 
 Si ya tenemos el Office 2007 instalado, podemos practicar añadiendo un componente adicional, por ejemplo se nos ocurre las fuentes japonesas, para ver y editar documentos en japonés, y así si nos descargamos un PowerPoint en este lenguaje lo podríamos editar.
 
@@ -28,7 +28,7 @@ Seguimoslos pasos indicados en [Agregar y quitar componentes](agregar_y_quitar.h
 
 El componente está en "Características compartidas de Office" - "Soporte internacional"
 
-**3\. Quitar componentes adicionales.**
+### 3\. Quitar componentes adicionales.
 
 Es muy normal que tengamos componentes que nunca vayamos a utilizar, o están duplicados con otros programas que tenemos instalados. Quitar estos componentes es una buena opción para no recargar el registro de Windows.
 

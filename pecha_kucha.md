@@ -20,5 +20,5 @@ Es una buena idea si queremos **QUE NUESTROS ALUMNOS EXPONGAN**. Por ejemplo rep
 
 El origen de esta técnica está en la necesidad de que en una sesión nocturna varios presentadores muestren sus exposiciones en el mundo del arte, arquitectura, diseño, fotografía e incluso negocios.
 
-[http://youtu.be/M3F1h_BbUx0](http://youtu.be/M3F1h_BbUx0 "Pecha Kucha")
+{% youtube %}http://youtu.be/M3F1h_BbUx0{% endyoutube %}
 

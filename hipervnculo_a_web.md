@@ -22,7 +22,7 @@ Nosotros hemos puesto una página Web, recordemos que también podemos **copiar*
 
 
 
-( Fig.3.1.1.1.5: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))  
+
 
 
 Hemos insertado **Formas **> **Botón de acción** sin nada y posteriormente le insertamos el texto. Se nos abre: **Configuración de la acción**, escribimos bien la URL que es la página http://es.wikipedia.org cuidado de escribir bien la dirección **no repetir http://http://** o dejarnos alguna letra el link no funcionaría. Comprobamos si funciona el botón a la www.
@@ -32,7 +32,7 @@ Hemos insertado **Formas **> **Botón de acción** sin nada y posteriormente
 
 
 
- ( Fig.3.1.1.1.6: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
   Nos hemos dado cuenta que el link está hecho sólo con el botón rectángulo y queremos reforzar, que cuando hagamos la presentación esté también vinculado el texto, lo hacemos como siempre: Seleccionamos -> botón derecho y seleccionamos **Hipervínculo**...  -> **Archivo o página Web existente**, pegando la dirección en **Dirección. **Lo comprobamos desde** Presentación de diapositivas, diapositiva actual, **vemos que el resultado es mejor, todo está vinculado a la Wikipedia.
@@ -42,7 +42,7 @@ Hemos insertado **Formas **> **Botón de acción** sin nada y posteriormente
 
 
 
- ( Fig.3.1.1.1.7: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 ****Hipervínculo a página Web **PowerPoint**
@@ -58,7 +58,7 @@ Para poner un enlace a una página Web en este programa, debemos ir a la pestañ
 
 
 
-( Fig.3.1.1.1.8: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Marcamos el objeto, o texto a enlazar en nuestro caso hemos puesto un texto, marcamos **página Web existente**, (Enlace a WWW) lo podemos cambiar a la derecha del **4** y nos lo cambiará en la diapositiva.
@@ -70,7 +70,7 @@ En nuestro caso hemos ido a un navegador y al encontrar la URL deseada (**Ctrl+C
 #### Abrir una página web en el navegador web por omisión del ordenador. 
 
 
-![Enlace a página en OpenOffice](img/enlacepaginaopenoff.png "Enlace a Web impress")( Fig.3.1.1.1.9: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 #### Insertar direcciones de páginas Web
@@ -102,7 +102,7 @@ Seleccionamos la opción modificar hipervínculo.
 
 
 
-( Fig.3.1.1.1.10: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Drive sorprende por su simplicidad. Vamos a la pestaña **insertar**\>  **Enlace **marcamos el objeto  o con **ctrl+K**  podemos poner el enlace. Puedo enlazar a una página **web**, sobre un texto objeto...
@@ -116,7 +116,7 @@ Una vez puesto el enlace, debajo de mismo me aparece en azul el enlace – **Ca
 
 
 
-( Fig.3.1.1.1.11: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 ****Hipervínculo a página Web en **Keynote**
@@ -134,7 +134,7 @@ Una vez puesto el enlace, debajo de mismo me aparece en azul el enlace – **Ca
 5  Si deseamos cambiar el texto que se muestra como hipervínculo en el documento, escribir un texto nuevo en el campo Mostrar.
 
 
-![Hipervínculos Keynote](img/enlacesheynote2.png "Enlaces a URL Keynote")(Fig.3.1.1.1.12: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
  Añadir un enlace a texto o a un objeto

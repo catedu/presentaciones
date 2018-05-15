@@ -18,7 +18,7 @@ Los textos de una presentación han de ser fáciles de leer y atractivos. La vel
 
 Se trata de que el texto sea visible, lo que obliga a restringir los tipos y tamaños de letra. En cualquier caso el diseñador de la presentación ha de tener presente que no en todos los equipos se visualizarán sus presentaciones como en su programa de diseño.
 
-En general para facilitar la lectura utiliza **[fuentes serif](http://es.wikipedia.org/wiki/Gracia_(tipograf%C3%ADa)) **(es decir la que tiene pequeños remates)**,** mientras que para una información puntual y contrastada emplea **[sans-serif](http://es.wikipedia.org/wiki/Palo_seco) **(también llamadas palo seco).
+En general para facilitar la lectura utiliza **[fuentes serif](http://es.wikipedia.org/wiki/Gracia_(tipograf%C3%ADa) **(es decir la que tiene pequeños remates)**,** mientras que para una información puntual y contrastada emplea **[sans-serif](http://es.wikipedia.org/wiki/Palo_seco) **(también llamadas palo seco).
 
 ## Tablas
 

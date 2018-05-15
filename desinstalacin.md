@@ -7,8 +7,6 @@ Para el proceso de desinstalación, tenemos dos opciones:
 
 Una vez entrado en el programa, son las mismas pantallas que "[Agregar y quitar componentes](agregar_y_quitar.html)" pero en este caso sería quitar todo el PowerPoint o el Office
 
-* * *
-
 **Para hacerlo con el panél de control:**
 
 **a) En Windows XP:**
@@ -34,20 +32,10 @@ Una vez entrado en el programa, son las mismas pantallas que "[Agregar y quitar 
 **b) En Windows Vista o Windows 7**: sigue las ilustraciones.
 
 
-![Desinstalar Programas](img/desinstalar.png "Desinstalar")
-
-
-
-(Fig.1.1.1.1: C.Barrabés, captura panel de control Windows 7, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)")) 
-
+![Desinstalar Programas, C.Barrabés, captura panel de control Windows 7](img/desinstalar.png "Desinstalar")
 
 y luego
 
 
-![Desinstalar Programas desde el panel de control W7](img/desinstalarprogramas.png "Desinstalar Programas")
-
-
-
-(Fig.1.1.1.2: C.Barrabés, captura panel de control Windows 7, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)")) 
-
+![Desinstalar Programas desde el panel de control W7, C.Barrabés, captura panel de control Windows 7](img/desinstalarprogramas.png "Desinstalar Programas")
 

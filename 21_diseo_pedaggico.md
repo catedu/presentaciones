@@ -16,7 +16,7 @@ Nos detenemos un instante a **reflexionar sobre cómo ha de ser el diseño de un
 
 **Podemos distinguir tres tipos de presentaciones educativas:**
 
-*   Presentaciones susceptibles de ser utilizadas como **recurso educativo****,** por contener temas diversos cuyo contenido puede ser utilizado en procesos de enseñanza - aprendizaje, pero sin un diseño específicamente educativo. Es el caso de una presentación de la que podemos coger las diferentes imágenes para después utilizarlas como recursos educativos.
+*   Presentaciones susceptibles de ser utilizadas como **recurso educativo**, por contener temas diversos cuyo contenido puede ser utilizado en procesos de enseñanza - aprendizaje, pero sin un diseño específicamente educativo. Es el caso de una presentación de la que podemos coger las diferentes imágenes para después utilizarlas como recursos educativos.
 *   Presentaciones con **contenidos educativos**. Aunque no están concebidos para apoyar procesos de aprendizaje específico sus contenidos son educativos.
 *   Presentaciones **diseñados para ser utilizados en procesos de enseñanza - aprendizaje**. Son aquellos a los que estamos haciendo referencia, que se conciben con la idea de apoyar un determinado proceso de enseñanza - aprendizaje.
 

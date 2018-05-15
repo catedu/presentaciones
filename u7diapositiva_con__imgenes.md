@@ -21,13 +21,13 @@ En éste curso aprenderemos a manejar varios, pero nos coordinaremos con el curs
 
 
 
-(Fig.2.3.2: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Lo podemos hacer de varias formas. Desde la pestaña **Inicio **--> **Ilustraciones** o directamente desde el centro de la diapositiva con un diseño:
 
 
-![Insertar Objetos e imágenes PowerPoint](img/insercionobjetosimagenes.png "Insertar desde diseño PowerPoint")(Fig.2.3.3: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Podéis repasar esto [aquí](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/12_desde_archivo.html).
@@ -39,7 +39,7 @@ Podéis repasar esto [aquí](http://aularagon.catedu.es/materialesaularagon2013/
 
 
 
-(Fig.2.3.4: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 1\. Insertar 2.a mitad del desplegable aparece imagen. Fijémonos que podemos insertar desde aquí otros elementos: Tabla, Vídeo y sonido, objeto. Lo veremos más adelante. Lo más fácil es a partir de un archivo que tengamos, si es de la galería no pesará mucho, si es de una cámara o lo escaneamos, deberemos tratar la imagen para bajarle el peso y que nuestra presentación no sea muy pesada. Antiguamente esto era un problema mayor al tener que mandar una presentación por correo, el peso era muy grande y no la podíamos mandar o nos daba muchos problemas de tiempo de carga. Esto lo veremos en otro módulo.
@@ -55,7 +55,7 @@ También podemos ponerle una línea alrededor de la imagen, cambiarle ese color 
 
 
 
-(Fig.2.3.5: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 
@@ -63,7 +63,7 @@ También podemos ponerle una línea alrededor de la imagen, cambiarle ese color 
 
 
 
-(Fig.2.3.6: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 En Drive parece que todo es más sencillo, al existir menos botones a elegir. Fijémonos en que, al igual que en algunos blog podemos arrastrar la imagen desde una carpeta abierta, como indica la **A** verde. Podemos insertar la imagen en le nube Drive, abriendo la imagen como lo haríamos habitualmente. También podemos incluir una imagen desde le URL (Un **localizador de recursos uniforme**, más comúnmente denominado **URL** (sigla en inglés de _uniform resource locator_), es una secuencia de caracteres, de acuerdo a un formato modélico y estándar, que se usa para nombrar recursos en [Internet](http://es.wikipedia.org/wiki/Internet "Internet") para su localización o identificación, como por ejemplo documentos textuales, imágenes, vídeos, presentaciones digitales, etc.)
@@ -96,7 +96,7 @@ Si tenéis alguna sugerencia dejar un comentario en el Blog. Gracias de antemano
 
 
 
-(Fig.2.3.7: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 #### Como importar una imagen

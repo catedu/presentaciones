@@ -12,11 +12,11 @@ Evidentemente ya en el menú de la barra de herramientas de **Inicio** tenemos u
 Los diseños lo trataremos en la [Unidad 9](u9_diseo.html), según donde hagamos click en el botón (en la parte superior o en la inferior) estamos eligiendo una de las dos opciones:
 
 
-![Nueva Diapositiva](img/nuevadiapositiva.png "Nueva diapositiva")
+![Nueva Diapositiva. C.Barrabés, montaje pantalla captura programa](img/nuevadiapositiva.png)
 
 
 
-( Fig.1.5.1.1: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **Eliminar**
@@ -28,11 +28,11 @@ Nos podemos poner en vista normal o clasificador de diapositivas, nos ponemos en
 También si nos ponemos sobre la diapositiva, botón derecho y elimina diapositiva.
 
 
-![Suprimir diapositiva](img/suprimirdiapo.png "Eliminar Diapositiva ")
+![Suprimir diapositiva. C.Barrabés, montaje pantalla captura programa](img/suprimirdiapo.png)
 
 
 
-( Fig.1.5.1.2: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **1.5.1.2 En Open Office**
@@ -40,11 +40,11 @@ También si nos ponemos sobre la diapositiva, botón derecho y elimina diapositi
 Se realiza de forma muy similar al anterior ver gráfico:
 
 
-![Insertar diapositiva en OpenOffice](img/anyadireliminaropenoffice.png "Insertas Diapositiva y eliminarla") 
+![Insertar diapositiva en OpenOffice. C.Barrabés, montaje pantalla captura programa](img/anyadireliminaropenoffice.png) 
 
 
 
-( Fig.1.5.1.3: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **1.5.1.3. En Drive**
@@ -58,11 +58,11 @@ Se realiza de forma muy similar al anterior ver gráfico:
 Se hace igual, nos ponemos sobre la diapositiva que deseamos eliminar**, botón derecho Borrar diapositiva.**
 
 
-**![Eliminar en Drive](img/anyadireliminardrive.png "Suprimir diapositiva en Drive")**
+![Eliminar en Drive. C.Barrabés, montaje pantalla captura programa](img/anyadireliminardrive.png)
 
 
 
-( Fig.1.5.1.4: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **1.5.1.4. En Kynote**

@@ -17,7 +17,7 @@ Para hacer un enlace a correo electrónico es exactamente igual que un hipervín
 
 
 
- ( Fig.3.1.1.2.1: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Para un hipervínculo creado en cualquier objeto no es necesario, pues existe un botón exclusivo para estos enlaces que automáticamente ponen la palabra **mailto: **_(rellena el campo correo electrónico y verás como aparece automáticamente la palabra mailto:) _además de la posibilidad de poner el campo **Asunto:**
@@ -29,7 +29,7 @@ Para un hipervínculo creado en cualquier objeto no es necesario, pues existe un
 
 
 
-( Fig.3.1.1.2.2: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **¿Qué programa se abre cuando se pincha en el hipervínculo?**
@@ -43,7 +43,7 @@ En esta versión también intenta abrir el programa "de cliente de correo" que p
 
 
 
-( Fig.3.1.1.2.3: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
   
@@ -55,7 +55,7 @@ He intenta abrir la web para cliente de correo para entrar en nuestro correo
 
 
 
-( Fig.3.1.1.2.4: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
   
@@ -77,7 +77,7 @@ Es como si en la presentación hubiera un vínculo a un archivo Word y el ordena
 
 
 
- (Fig.3.1.1.2.5: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 **Hipervínculo a correo electrónico en Keynote en google Drive**
@@ -87,7 +87,7 @@ Es como si en la presentación hubiera un vínculo a un archivo Word y el ordena
 
 
 
-(Fig.3.1.1.2.6: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+
 
 
 Muy similar al resto de programas sigamos los pasos:

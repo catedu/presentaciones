@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Presentaciones con PowerPoint y otras herramientas",
+        "author": "Claudio Barrabés Naval",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]

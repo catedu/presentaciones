@@ -6,20 +6,18 @@ Planificar el diseño de una presentación (no es necesario mandarlo al tutor, s
 
 **Reconoce la audiencia **
 
-var feedbackquesFeedback0b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 *   Grupo, nivel de alumnos
 *   Conocimientos previos
 *   Realidad social del centro educativo
 *   Edad
 
+%/accordion%
+
 **Decide el contenido**
 
-var feedbackquesFeedback1b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Primero pensar en la temática y luego en los objetivos
 
@@ -27,11 +25,12 @@ Primero pensar en la temática y luego en los objetivos
 *   ¿qué conceptos claves quieres explicar?
 *   ¿cuales son fundamentales o básicos, y cuales son de profundización?
 
+%/accordion%
+
+
 **Diseño**
 
-var feedbackquesFeedback2b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Haz un boceto del diseño de las diapositivas, pensar en:
 
@@ -40,27 +39,29 @@ Haz un boceto del diseño de las diapositivas, pensar en:
 *   efectos de animación
 *   tablas
 
+%/accordion%
+
 **Decidir qué tipo de gráficos o imágenes**
 
-var feedbackquesFeedback3b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 siempre adecuados a la audiencia
 
+%/accordion%
+
 **Pensar en los enlaces o hipervínculos a utilizar**
 
-var feedbackquesFeedback4b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Acorde a los contenidos de profundización y accesorios
 
+%/accordion%
+
 **Evalúa los diferentes aspectos de la presentación que hemos diseñado**
 
-var feedbackquesFeedback5b96text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Pensar en mejoras: anécdotas que despierten preguntas interactivas con vínculos a otras diapositivas...
+
+%/accordion%
 

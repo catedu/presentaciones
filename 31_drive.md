@@ -16,35 +16,25 @@
     4.  Saldrá un diálogo que indicará el proceso de subida, esperar al 100%, disponemos de 15G para usar
 
 
-![Subir archivos a GoogleDrive](img/subirarchivosdrive.png "Subir presentación a Drive")
-
-
-
-( Fig.0.3.1: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
-
+![Subir archivos a GoogleDrive. C.Barrabés, montaje pantalla captura programa](img/subirarchivosdrive.png "Subir presentación a Drive")
 
 Una vez ya subido, paso 5:
 
 *   Pinchar sobre el archivo subido
     *   Dependiendo de la naturaleza del archivo subido la visualiza o no
     *   Se puede dar a configurar y convertir los archivos a Google Docs, PDF, JPG.. pero no es nuestro objetivo.
-*   Elegir **Compartir  
+*   Elegir Compartir.
 
-    ![](img/compartir1.png)  
+![](img/compartir1.png)  
 
-    **
+
 *   **Obtenemos el enlace del achivo a compartir. Este es el enlace que enviaremos al tutor** (lo copiamos y se lo enviamos)
 *   **IMPORTANTE** TENEMOS QUE HACER QUE EL ENLACE PARA COMPARTIR **QUE SEA PUBLICO**pues tal y como está sólo sirve para colaboradores, esto se hace en el botón de **Cambiar....** tienes dos opciones, la que quieras de las dos:
     *   Publico en la web
     *   Cualquier usuario que reciba el enlace
 
 
-![Configuración compartir Drive](img/configuracioncompartirdrive.png "Configuración compartir Drive") 
-
-
-
-( Fig.0.3.2: C.Barrabés, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
-
+![Configuración compartir Drive C.Barrabés, montaje pantalla captura programa](img/configuracioncompartirdrive.png "Configuración compartir Drive") 
 
 
 ![](img/publico.png)
@@ -54,5 +44,5 @@ Podemos compartir a través del Gmail, g+ (grupo de google), Facebook o Twitter 
 
 ## Para saber más de Drive
 
-*   [http://www.catedu.es/facilytic/2013/05/30/manual-google-drive/](http://www.catedu.es/facilytic/2013/05/30/manual-google-drive/)
+*   [Curso sobre Google Drive en Aularagón](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/)
 

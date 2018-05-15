@@ -2,9 +2,10 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
-### Módulo 0: ANTES DE EMPEZAR | Módulo 0: Las Presentaciones 
-* [Módulo 0: ANTES DE EMPEZAR](index0.md)
+### 0. Las Presentaciones 
+* [ANTES DE EMPEZAR](index0.md)
 * [Contenidos](contenidos.md)
 * [U.1. CONSEJOS](u1_consejos.md)
 * [U.2 DISEÑO](u2_diseo.md)
@@ -19,10 +20,10 @@ ____
 	* [3.1. DRIVE](31_drive.md)
 	* [3.2. DROPBOX](32_dropbox.md)
 * [Para saber más](para_saber_ms.md)
+-->
 
-<!--
-### Módulo 1. EMPEZANDO | MÓDULO 1: EMPEZANDO PRESENTACIONES: PowerPoint, Open Office, Drive y Keynote. 
-* [Módulo 1. EMPEZANDO](index1.md)
+### 1. EMPEZANDO PRESENTACIONES: PowerPoint, Open Office, Drive y Keynote.
+* [EMPEZANDO](index1.md)
 * [Contenidos](contenidos1.md)
 * [U1 Instalación](u1_instalacin.md)
 	* [Power Point](power_point.md)
@@ -57,6 +58,7 @@ ____
 	* [Diseño en Drive](diseo_en_drive.md)
 	* [Más cosas de diseño](ms_cosas_de_diseo.md)
 
+<!--
 ### MÓDULO 2: OBJETOS ESTRUCTURALES | MÓDULO 2: PRESENTACIONES:Tablas, Gráficos y Organigramas 
 * [MÓDULO 2: OBJETOS ESTRUCTURALES](index2.md)
 * [Contenidos](contenidos2.md)

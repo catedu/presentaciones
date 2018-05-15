@@ -2,11 +2,11 @@
 
 PowerPoint, Open Office, Drive y Keynote ** son unas herramientas magníficas** para crear presentaciones. Flexibles, potentes, de manejo fácil, líderes en su sector.
 
-    **Introducción.**
+### Introducción
 
 Pretendemos conocer básicamente los 4 programas, que presentaremos a lo largo del curso en este orden:
 
-**PowerPoint, Open Office, Drive y Keynote.**  
+**PowerPoint, Open Office, Drive y Keynote.**
 
 Tras el Módulo 0 de introducción y con una buena base teórica de como hacerlas, centraremos el módulo 1 conocer básicamente los programas, para hacer una presentación básica completa. 
 

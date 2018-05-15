@@ -1,4 +1,4 @@
-# Módulo 0: ANTES DE EMPEZAR
+# ANTES DE EMPEZAR
 
 Uno de los aspectos que supone un handicap para gran parte de docentes o ponentes en el momento de presentar consiste en que nuestra ponencia o clase, sea motivador y consiga captar la atención de nuestra audiencia.
 

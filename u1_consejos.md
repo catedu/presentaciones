@@ -2,7 +2,7 @@
 
 Aprendamos como hacerlo viendo el vídeo siguiente:
 
-[http://www.youtube.com/watch?v=39HKYBGiRxM](http://www.youtube.com/watch?v=39HKYBGiRxM "Buenas Presentaciones")
+{% youtube %}http://www.youtube.com/watch?v=39HKYBGiRxM{% endyoutube %}
 
 1.  Utilizar el sistema de presentación que se adapte a nuestro trabajo (Hablar tu, usar la pizarra, PPT, Prezi...)
 2.  Encontrar un **buen diseño**, fuente clara y pocas letras

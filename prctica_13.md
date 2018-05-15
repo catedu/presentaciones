@@ -7,9 +7,10 @@
 
 ¿cual de estas dos opciones es la más correcta? ¿elegir primero el diseño y luego el tema, o primero el tema y luego el diseño?
 
-var feedback130_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Es difícil, depende de gustos, normalmente es mejor elegir el tema, pues es la opción que más determinará la diapositiva, los títulos y demás elementos de diseño pueden estar condicionados al tema elegido  
+
+%/accordion%
+
 
