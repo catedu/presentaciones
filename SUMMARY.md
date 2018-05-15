@@ -57,7 +57,7 @@ ____
 	* [Diseño en Power Point](diseo_en_power_point.md)
 	* [Diseño en Drive](diseo_en_drive.md)
 	* [Más cosas de diseño](ms_cosas_de_diseo.md)
--->
+
 
 
 ### 2. PRESENTACIONES:Tablas, Gráficos y Organigramas 
@@ -68,8 +68,8 @@ ____
 * [U.3 Insertar Organigramas](u3_insertar_organigramas.md)
 * [Para saber más](para_saber_ms2.md)
 * [Aplicación didáctica](aplicacin_didctica2.md)
+-->
 
-<!--
 ### Módulo 3. DINAMIZANDO | MÓDULO 3: DINAMIZANDO PRESENTACIONES: Hiperenlaces, Fondos, numeración de páginas y pie de página.  
 * [Módulo 3. DINAMIZANDO](index3.md)
 * [Contenidos](contenidos3.md)
@@ -88,6 +88,7 @@ ____
 * [Para saber más](para_saber_ms3.md)
 * [Aplicación didáctica](aplicacin_didctica3.md)
 
+<!--
 ### Módulo 4. PREPARATIVOS. | MÓDULO 5: Animando nuestra presentación, notas de orador y preparativos preponencia 
 * [Módulo 4. PREPARATIVOS.](index4.md)
 * [Contenidos](contenidos4.md)
