@@ -1,7 +1,5 @@
 # Actividad lectura
 
-## Actividad de lectura
-
 **Leer la ayuda**
 
 Lo [legítimo o razonable](http://es.wikipedia.org/wiki/Fair_use), tener en cuenta los derechos de uso.
@@ -10,9 +8,7 @@ Los propietarios de los sitios web pueden servirse de licencias para indicar si 
 
 [Foro de ayuda](http://www.google.com/support/forum/p/Web+Search?hl=es).
 
-var feedback37\_90\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 # Búsqueda de imágenes en Google Drive
 
@@ -28,3 +24,6 @@ Normalmente, si no pone nada en una imagen, tiene por defecto todos los derechos
 
 Lo mejor que podemos hacer, es crear nuestra propias imágenes, creando nuestro propio banco.
 
+
+
+%/accordion%

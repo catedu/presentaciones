@@ -22,7 +22,7 @@ Para modificar esa forma sólo tendremos que seleccionarla haciendo un clic sobr
 
 
 
-
+![C.Barrabés, montaje pantalla captura programa](img/forma.png)
 
 
 ![Barra de Formas PowerPoint](img/barradeformas.png "BArra de Formas PPT")
@@ -104,7 +104,7 @@ Ver enlace: [http://help.apple.com/keynote/mac/6.0/#/tan72232820](http://help.ap
 
 Para ver más estilos de figura, clic en las flechas.
 
-    2\. Seleccionar una figura para añadirla a la diapositiva.
+2\. Seleccionar una figura para añadirla a la diapositiva.
 
 ### Añadir texto dentro de una figura
 

@@ -20,7 +20,7 @@ ____
 	* [3.1. DRIVE](31_drive.md)
 	* [3.2. DROPBOX](32_dropbox.md)
 * [Para saber más](para_saber_ms.md)
--->
+
 
 ### 1. EMPEZANDO PRESENTACIONES: PowerPoint, Open Office, Drive y Keynote.
 * [EMPEZANDO](index1.md)
@@ -57,10 +57,11 @@ ____
 	* [Diseño en Power Point](diseo_en_power_point.md)
 	* [Diseño en Drive](diseo_en_drive.md)
 	* [Más cosas de diseño](ms_cosas_de_diseo.md)
+-->
 
-<!--
-### MÓDULO 2: OBJETOS ESTRUCTURALES | MÓDULO 2: PRESENTACIONES:Tablas, Gráficos y Organigramas 
-* [MÓDULO 2: OBJETOS ESTRUCTURALES](index2.md)
+
+### 2. PRESENTACIONES:Tablas, Gráficos y Organigramas 
+* [OBJETOS ESTRUCTURALES](index2.md)
 * [Contenidos](contenidos2.md)
 * [U.1	Tablas simples](u1tablas_simples.md)
 * [U.2	Insertar Gráficos](u2insertar_grficos.md)
@@ -68,6 +69,7 @@ ____
 * [Para saber más](para_saber_ms2.md)
 * [Aplicación didáctica](aplicacin_didctica2.md)
 
+<!--
 ### Módulo 3. DINAMIZANDO | MÓDULO 3: DINAMIZANDO PRESENTACIONES: Hiperenlaces, Fondos, numeración de páginas y pie de página.  
 * [Módulo 3. DINAMIZANDO](index3.md)
 * [Contenidos](contenidos3.md)

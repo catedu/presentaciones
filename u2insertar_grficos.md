@@ -20,9 +20,7 @@ En Power Point : Leer introducción, insertar gráfico y modificar gráfico: [h
 
 ¿Cómo asignar un nombre exclusivo a tu gráfico o cómo cambiarle el nombre?
 
-var feedback131\_35\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 **Truco:**
 
@@ -33,6 +31,10 @@ Introducir un nombre **en el cuadro de texto Nombre del gráfico** en la pest
 Introducir un nombre en el cuadro de texto Nombre del gráfico de la pestaña Personalizar. El nombre del gráfico se muestra como etiqueta encima de este.
 
 Nota: no todos los tipos de gráfico tienen un título, pero todos tienen un nombre de gráfico.
+
+%/accordion%
+
+
 
 **2.2 En OpenOffice**
 
@@ -133,10 +135,5 @@ Visitar la página siguiente:
 [http://help.apple.com/keynote/mac/6.0/#/tan1a8924264](http://help.apple.com/keynote/mac/6.0/#/tan1a8924264)
 
 
-[![Añadir o eliminar gráfica](img/Anadir_o_eliminar_una_grafica___Ayuda_Keynote_para_Mac.png "Añadir o eliminar gráfica")](http://help.apple.com/keynote/mac/6.0/#/tan1a8924264 "Añadir o eliminar gráfica en Keynote")
-
-
-
-( Fig.3.3.1: C.Barrabés, montaje pantalla captura  web, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
 
 

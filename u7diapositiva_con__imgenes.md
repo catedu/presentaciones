@@ -17,7 +17,7 @@ En éste curso aprenderemos a manejar varios, pero nos coordinaremos con el curs
 #### Insertar imagen desde archivo e insertar imágenes prediseñadas
 
 
-![Insertar Imagen PowerPoint](img/insertarobjetosimagenespower.png "Insertar PowerPoint")
+![Insertar Imagen PowerPoint. C.Barrabés, montaje pantalla captura programa](img/insertarobjetosimagenespower.png)
 
 
 
@@ -35,7 +35,7 @@ Podéis repasar esto [aquí](http://aularagon.catedu.es/materialesaularagon2013/
 **3.1.2.     En OpenOffice**
 
 
-![Inserta imagen en Open Office](img/insertarimagenarchivosygaleriaOpOf.png "Inserta imagen en Impress")
+![Inserta imagen en Open Office. C.Barrabés, montaje pantalla captura programa](img/insertarimagenarchivosygaleriaOpOf.png)
 
 
 
@@ -51,7 +51,7 @@ También podemos ponerle una línea alrededor de la imagen, cambiarle ese color 
 **3.1.3.     En Drive**
 
 
-**![Presentación Drive Insertar](img/intertarimagendrive.png "Insertar imagen en drive presentaciones")**
+![Presentación Drive Insertar. C.Barrabés, montaje pantalla captura programa](img/intertarimagendrive.png)
 
 
 
@@ -59,7 +59,7 @@ También podemos ponerle una línea alrededor de la imagen, cambiarle ese color 
 
 
 
-**![Diferentes posibilidades de elección de imágenes en Drive](img/insertarimagenedrive2.png "Imágenes Drive Presntaciones")**
+![Diferentes posibilidades de elección de imágenes en Drive. C.Barrabés, montaje pantalla captura programa](img/insertarimagenedrive2.png)
 
 
 
@@ -78,11 +78,13 @@ Leer el artículo. [http://claudiobarrabes.blogspot.com.es/2013/10/citar-una-ima
 
 Comentar en el foro lo que desconocíais y si lo que aplicareis  a partir de ahora.
 
-var feedback104\_118\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Si tenéis alguna sugerencia dejar un comentario en el Blog. Gracias de antemano.
+
+
+%/accordion%
+
 
 **3.1.4.     En Keynote**
 
@@ -113,7 +115,6 @@ Hacer clic en multimedia en la barra de herramientas, hacer clic en fotos en la 
 
 Seleccionada insertar > seleccionan, elegimos que el archivo,. Arrastrar la imagen para colocarla donde deseemos.
 
-### Truco
 
 Por omisión, si tamaño una imagen colocada en una diapositiva es mayor que la propia diapositiva, Keynote su muestre a la imagen para que se ajusten a la diapositiva. (una imagen cuya resolución se ha reducido presenta menos pixels que la imagen original; se elimina parte de la información de la imagen.) Las imágenes en formatoJPEG siguen siendo imágenes JPEG; otros formatos se convierten a TIFF.
 

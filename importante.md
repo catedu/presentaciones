@@ -56,9 +56,6 @@ Esta licencia permite a otros distribuir, remezclar, retocar, y crear a partir d
 En el módulo de imagen,  manejaremos el Álbum de fotografías , veremos cómo crear una presentación a partir de una serie de fotografías, podremos agruparlas y si queremos, compartir fácilmente en  Internet.
 
 
-[![Licencias](img/licenciasCC.png "CC Licencias")](http://creativecommons.org/licenses/ "CC Licencias")
-
-
 ### Para saber más
 
 *   [Formatos de imagen  y formatos gráficos](http://claudiobarrabes.blogspot.com.es/2013/10/formatos-de-imagen-formatos-de-archivo.html): 

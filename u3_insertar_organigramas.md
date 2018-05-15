@@ -4,7 +4,7 @@
 
 Podemos repasar esto, en la versión 2007 en:
 
-[Apuntes **Aularagón**: http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/72\_crear\_una\_diagrama\_con_smartart.html](http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/72_crear_una_diagrama_con_smartart.html)
+[Apuntes **Aularagón**](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/72_crear_una_diagrama_con_smartart.html)
 
 Versión **2003**: [http://office.microsoft.com/es-es/powerpoint-help/agregar-un-organigrama-HP005194685.aspx](http://office.microsoft.com/es-es/powerpoint-help/agregar-un-organigrama-HP005194685.aspx)
 
@@ -62,7 +62,7 @@ Si hemos instalado correctamente la Extensión SmArt, debemos apreciar un nuevo 
 Si os sale el icono siguiente **felicidades Actividad realizada con éxito**.
 
 
-
+![](img/insertarsmartopenoffice.png)
 
 
 
@@ -101,5 +101,5 @@ Con las azules podemos pulsar click + cmd y click + alt, y vean los efectos.
 
 Ver web: 
 
-[http://www.youtube.com/watch?v=4nsZdOSkyO4](http://www.youtube.com/watch?v=4nsZdOSkyO4)
+{% youtube %}https://youtu.be/4nsZdOSkyO4{% endyoutube %}
 

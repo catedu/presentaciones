@@ -15,17 +15,12 @@ También podemos bajar la resolución de 300 píxels a 72 píxels por pulgada 
 **Abrimos archivo desde carpeta o lo importamos desde escáner.**
 
 
-**![Abrir Archivo](img/abriroaquiririmagen.png "Abrir o adquirir")**
-
-
-
-
-
+![Abrir Archivo](img/abriroaquiririmagen.png)
 
 La flecha inferior de la imagen nos indica el tamaño y el peso 16 Megas.
 
 
-![Cambiar el tamaño de la imagen](img/bajarpeso.png "Bajar peso a una imagen")
+![Cambiar el tamaño de la imagen. C.Barrabés, montaje pantalla captura programa](img/bajarpeso.png)
 
 
 
@@ -35,7 +30,7 @@ La flecha inferior de la imagen nos indica el tamaño y el peso 16 Megas.
 Hagamos unos retoques: Ponemos dos textos (se añaden automáticamente 2 capas de texto), ponemos un marco y la aplicamos un filtro.
 
 
-![Filtros](img/retoques.png "Filtros, texto y capas.")
+![Filtros. C.Barrabés, montaje pantalla captura programa](img/retoques.png)
 
 
 

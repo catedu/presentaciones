@@ -120,103 +120,161 @@ El producto final deberá pasarse a una **presentación**.
 
 **EVALUACIÓN DEL PRODUCTO FINAL**
 
-**Escasa consolidación**
-
-**1**
-
-**Aprendizaje medio**
-
-**2**
-
-**Buen aprendizaje**
-
-**3**
-
-**Excelencia en el**
-
-**aprendizaje**
-
-**4**
-
-**Notación**
-
-**numérica**
-
-**IDEAS**
-
-**Y**
-
-**CONTENIDO**
-
-**GLOBAL**
-
-**DEL**
-
-**TRABAJO**
-
-El trabajo presenta lagunas importantes. La información presentada no es del todo pertinente con el tema abordado.
-
-No hay lagunas significativas ni vacíos en la información. El contenido presentado tiene aspectos que pueden ser mejorados.
-
-Contenido adecuado y pertinente con el tema abordado. Las ideas y la información aportadas resultan de interés.
-
-El trabajo es claro, coherente y bien enfocado. El tema se ha enriquecido y ampliado con ideas, detalles e informaciones interesantes.
-
-**ORGANIZACIÓN**
-
-**DEL**
-
-**CONTENIDO**
-
-La presentación y la organización del material resultan confusas e inapropiadas.
-
-La presentación tiene una información organizada y estructurada en forma apropiada.
-
-La presentación tiene un formato atractivo y una información bien organizada. Casi todos los apartados tienen una estructura clara y adecuada al tema abordado.
-
-La presentación tiene un formato muy atractivo. La información utilizada es apropiada y perfectamente organizada. Todos los apartados resultan claros y bien distribuidos.
-
-**CALIDAD**
-
-**Y CANTIDAD**
-
-**DEL**
-
-**SOPORTE**
-
-**VISUAL**
-
-Apenas hay dibujos, fotos o imágenes. El trabajo final resulta pobre. El soporte visual es inadecuado.
-
-Escaso soporte visual en relación al texto. Las imágenes utilizadas son poco interesantes y no del todo apropiadas.
-
-El trabajo presenta un buen equilibrio entre texto y soporte visual. Las imágenes utilizadas son interesantes y apropiadas.
-
-Excelente combinación de texto y soporte visual. Se utilizan imágenes significativas, originales y apropiadas al tema tratado.
-
-**USO Y**
-
-**APROVECHAMIENTO**
-
-**DE LOS RECURSOS PROPORCIONADOS  **
-
-Apenas se recogen datos de los recursos ofrecidos. Los datos recogidos no se ajustan a los contenidos.
-
-Se consultan casi todos los recursos ofrecidos. Los datos recogidos se ajustan a los contenidos pero son escasos.
-
-Se consultan todos los recursos ofrecidos. Los datos recogidos se ajustan bien a los contenidos y se hace un buen aprovechamiento de los mismos.
-
-Se consultan todos los recursos y en algunos apartados se amplían. Los datos recogidos se ajustan perfectamente a los contenidos, siendo muy específicos en algún caso y muy bien aprovechados.
-
-**ESFUERZO**
-
-El trabajo final demuestra que los alumnos del grupo no pusieron ningún esfuerzo.
-
-El trabajo final demuestra que faltó esfuerzo por parte de los alumnos del grupo
-
-El trabajo final demuestra que los alumnos del grupo no alcanzaron a poner todo su esfuerzo.
-
-El trabajo final demuestra que los alumnos del grupo se esforzaron al máximo.
+<table style="width: 893px;" border="1" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="188">
+<p align="center"><strong>&nbsp;</strong></p>
+</td>
+<td valign="top" width="146">
+<p align="center"><strong>Escasa consolidación</strong></p>
+<p align="center"><strong>1</strong></p>
+</td>
+<td valign="top" width="137">
+<p align="center"><strong>Aprendizaje medio</strong></p>
+<p align="center"><strong>2</strong></p>
+</td>
+<td valign="top" width="143">
+<p align="center"><strong>Buen aprendizaje</strong></p>
+<p align="center"><strong>3</strong></p>
+</td>
+<td valign="top" width="205">
+<p align="center"><strong>Excelencia en el</strong></p>
+<p align="center"><strong>aprendizaje</strong></p>
+<p align="center"><strong>4</strong></p>
+</td>
+<td valign="top" width="60">
+<p align="center"><strong>Notación</strong></p>
+<p align="center"><strong>numérica</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="188">
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><strong>IDEAS</strong></p>
+<p align="center"><strong>Y</strong></p>
+<p align="center"><strong>CONTENIDO</strong></p>
+<p align="center"><strong>GLOBAL</strong></p>
+<p align="center"><strong>DEL</strong></p>
+<p align="center"><strong>TRABAJO</strong></p>
+</td>
+<td valign="top" width="146">
+<p>El trabajo presenta lagunas importantes. La información presentada no es del todo pertinente con el tema abordado.</p>
+</td>
+<td valign="top" width="137">
+<p>No hay lagunas significativas ni vacíos en la información. El contenido presentado tiene aspectos que pueden ser mejorados.</p>
+</td>
+<td valign="top" width="143">
+<p>Contenido adecuado y pertinente con el tema abordado. Las ideas y la información aportadas resultan de interés.</p>
+</td>
+<td valign="top" width="205">
+<p>El trabajo es claro, coherente y bien enfocado. El tema se ha enriquecido y ampliado con ideas, detalles e informaciones interesantes.</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="60">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="188">
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>ORGANIZACIÓN</strong></p>
+<p align="center"><strong>DEL</strong></p>
+<p align="center"><strong>CONTENIDO</strong></p>
+</td>
+<td valign="top" width="146">
+<p>La presentación y la organización del material resultan confusas e inapropiadas.</p>
+</td>
+<td valign="top" width="137">
+<p>La presentación tiene una información organizada y estructurada en forma apropiada.</p>
+</td>
+<td valign="top" width="143">
+<p>La presentación tiene un formato atractivo y una información bien organizada. Casi todos los apartados tienen una estructura clara y adecuada al tema abordado.</p>
+</td>
+<td valign="top" width="205">
+<p align="center">La presentación tiene un formato muy atractivo. La información utilizada es apropiada y perfectamente organizada. Todos los apartados resultan claros y bien distribuidos.</p>
+</td>
+<td valign="top" width="60">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="188">
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>CALIDAD</strong></p>
+<p align="center"><strong>Y CANTIDAD</strong></p>
+<p align="center"><strong>DEL</strong></p>
+<p align="center"><strong>SOPORTE</strong></p>
+<p align="center"><strong>VISUAL</strong></p>
+</td>
+<td valign="top" width="146">
+<p>Apenas hay dibujos, fotos o imágenes. El trabajo final resulta pobre. El soporte visual es inadecuado.</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="137">
+<p>Escaso soporte visual en relación al texto. Las imágenes utilizadas son poco interesantes y no del todo apropiadas.</p>
+</td>
+<td valign="top" width="143">
+<p>El trabajo presenta un buen equilibrio entre texto y soporte visual. Las imágenes utilizadas son interesantes y apropiadas.</p>
+</td>
+<td valign="top" width="205">
+<p align="center">Excelente combinación de texto y soporte visual. Se utilizan imágenes significativas, originales y apropiadas al tema tratado.</p>
+</td>
+<td valign="top" width="60">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="188">
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>USO Y</strong></p>
+<p align="center"><strong>APROVECHAMIENTO</strong></p>
+<p align="center"><strong>DE LOS RECURSOS PROPORCIONADOS &nbsp;</strong></p>
+</td>
+<td valign="top" width="146">
+<p>Apenas se recogen datos de los recursos ofrecidos. Los datos recogidos no se ajustan a los contenidos.</p>
+</td>
+<td valign="top" width="137">
+<p>Se consultan casi todos los recursos ofrecidos. Los datos recogidos se ajustan a los contenidos pero son escasos.</p>
+<p>&nbsp;</p>
+</td>
+<td valign="top" width="143">
+<p>Se consultan todos los recursos ofrecidos. Los datos recogidos se ajustan bien a los contenidos y se hace un buen aprovechamiento de los mismos.</p>
+</td>
+<td valign="top" width="205">
+<p>Se consultan todos los recursos y en algunos apartados se amplían. Los datos recogidos se ajustan perfectamente a los contenidos, siendo muy específicos en algún caso y muy bien aprovechados.</p>
+</td>
+<td valign="top" width="60">
+<p align="center">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="188">
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>&nbsp;</strong></p>
+<p align="center"><strong>ESFUERZO</strong></p>
+</td>
+<td valign="top" width="146">
+<p>El trabajo final demuestra que los alumnos del grupo no pusieron ningún esfuerzo.</p>
+</td>
+<td valign="top" width="137">
+<p>El trabajo final demuestra que faltó esfuerzo por parte de los alumnos del grupo</p>
+</td>
+<td valign="top" width="143">
+<p>El trabajo final demuestra que los alumnos del grupo no alcanzaron a poner todo su esfuerzo.</p>
+</td>
+<td valign="top" width="205">
+<p>El trabajo final demuestra que los alumnos del grupo se esforzaron al máximo.</p>
+</td>
+<td valign="top" width="60">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 **Enlaces de Interés**
 

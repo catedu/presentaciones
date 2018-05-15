@@ -1,6 +1,4 @@
-# Para Saber más.
-
-## ParaSaberMas
+# Para Saber más
 
 **Edición de Imágenes PIXLR**
 
@@ -41,7 +39,7 @@ Colgaremos un manual en nuestro [Blog](claudiobarrabes.blogspot.com.es "Blog del
 *   **Fotosizer** otro similar ver  [el enlace del programa](http://www.fotosizer.com/).
 *   **Image Tools**: Sitio Web: [Image Tools](http://union-d.ru/dev/node/6). Descarga [Image Tools](http://union-d.ru/downloads/imagetools-3.6.zip) (portable)
     
-*   ****BIMP** Lite** Batch Image Processor es una herramienta preparada para aplicar diferentes operaciones a nuestras imágenes y de forma simultánea. Puede usarse para crear miniaturas, añadir sufijos o prefijos, renombrar utilizando número secuencial, sustituir o eliminar espacios, rotarlas, incluir texto… La opción redimensionar permite forzar el ancho y el alto especificado y mantener las proporciones. Además puede convertir entre formatos GIF, JPG, PNG, BMP, MIFF, TIFF, PCX o TGA. Incluye cliente FTP Web autor de descarga: [http://www.files.cerebralsynergy.com/BIMPLite.exe](http://www.files.cerebralsynergy.com/BIMPLite.exe)
+*   **BIMP Lite** Batch Image Processor es una herramienta preparada para aplicar diferentes operaciones a nuestras imágenes y de forma simultánea. Puede usarse para crear miniaturas, añadir sufijos o prefijos, renombrar utilizando número secuencial, sustituir o eliminar espacios, rotarlas, incluir texto… La opción redimensionar permite forzar el ancho y el alto especificado y mantener las proporciones. Además puede convertir entre formatos GIF, JPG, PNG, BMP, MIFF, TIFF, PCX o TGA. Incluye cliente FTP Web autor de descarga: [http://www.files.cerebralsynergy.com/BIMPLite.exe](http://www.files.cerebralsynergy.com/BIMPLite.exe)
     
       
     
@@ -69,7 +67,7 @@ Para saber más veamos los links:
  [Retoque de imagen básico](http://claudiobarrabes.blogspot.com.es/2013/12/retoque-de-imagen-basico.html "Retoque de imagen básico")
 
 
-[![Edición de Imagenes](img/edicionimagenes.png "Curso Powerpoint")](http://www.catedu.es/aularagonpowerpoint/ACTIVIDADES/AULARAGON/PowerPoint2007/11_edicin_de_imgenes.html "Retoque de imágenes")
+[![Edición de Imagenes](img/edicionimagenes.png "Curso Powerpoint")](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/11_edicin_de_imgenes.html "Retoque de imágenes")
 
 
 
