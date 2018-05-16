@@ -4,12 +4,12 @@ Una presentación puede cobrar vida si le insertamos archivos sonoros, siempre y
 
 No es conveniente usar sonidos cuando son reproducciones que tengan un orador, pues despistan y entorpecen la oratoria, en cambio si es una presentación sin orador físico, una presentación sin sonidos es más monótona, aburrida.
 
-**Conceptos básicos de sonido digital**
+### Conceptos básicos de sonido digital
 
-****Códec**  
+**Códec**  
 Acrónimo de "codificación/decodificación".** incluye un conjunto de algoritmos que permiten codificar y decodificar los datos auditivos, lo cual significa reducir la cantidad de bits que ocupa el fichero de audio. Sirve para comprimir señales o ficheros de audio con un flujo de datos (stream) con el objetivo de que ocupan el menor espacio posible, consiguiendo una buena calidad final, y descomprimiéndolos para reproducirlos o manipularlos en un formato más apropiado. Se implementa en software, hardware o una combinación de ambos. **El códec más utilizado en audio es el MP3.**
 
-**El formato de los archivos de sonido:**
+### El formato de los archivos de sonido:
 
 Las audios digitales se pueden guardar en distintos formatos. Cada uno se corresponde con una extensión específica del archivo que lo contiene. Existen muchos tipos de formatos de audio y no todos se pueden escuchar utilizando un mismo reproductor: Windows Media Player, QuickTime, WinAmp, Real Player, etc. Aquí trataremos los formatos más utilizados y universales: WAV, MP3 y OGG.
 
@@ -46,9 +46,9 @@ Las audios digitales se pueden guardar en distintos formatos. Cada uno se corres
 
 [Otros](http://es.wikipedia.org/wiki/Formato_de_archivo_de_audio "Otros formatos")
 
-## ParaSaberMas
+## Para saber más
 
-**Frecuencia. **  
+**Frecuencia.**  
 Es una magnitud que mide el número de repeticiones por unidad de tiempo. Es el número de vibraciones por segundo. Ésta se mide en Hertzios (Hz). Un hercio es la frecuencia de un suceso o fenómeno repetido una vez por segundo. El sonido humanamente audible consiste en ondas sonoras que se producen cuando las oscilaciones de la presión del aire, son convertidas en ondas mecánicas en el oído humano y percibidas por el cerebro.
 
 **Tasa de muestreo (sample rate)**.   
@@ -81,209 +81,93 @@ La velocidad de transferencia de datos puede ser constante o variable:
 
 **Las características técnicas de los principales códecs de audio son:**
 
-Codec
+|Codec|AAC|MP3|Vorbis (Ogg)|WMA|
+|:---:|:---:|:---:|:---:|:---:|
+|Tipo de compresión|Con pérdidas, Híbrido|Con pérdidas|Con pérdidas|Con pérdidas, Sin pérdidas|
+|Frecuencia de muestreo|8kHz a 192kHz|8, 11.025, 12, 16, 22.05, 24, 32, 44.1, 48kHz|1Hz a 200kHz|8, 11.025, 12, 16, 22.05, 32, 44.1, 48, 96kHz|
+|Tasa de bits|8-529Kbps (estéreo)|8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320 Kbps|Variable|4-768kbps / variable (sin pérdidas)|
+|Bits por muestra|Cualquiera|Cualquiera|Cualquiera|16, 24 (modo sin pérdidas) / Cualquiera (modo con pérdidas)|
+|CBR|Si|Si|Si|Si|
+|VBR|Si|Si|Si|Si|
+|Multicanal|hasta 28 canales|No|hasta 255 canales|hasta 8 canales (WMA Professional) / hasta 6 canales (WMA sin pérdidas)|
 
-[AAC](http://es.wikipedia.org/wiki/Advanced_Audio_Coding "Advanced Audio Coding")
-
-[MP3](http://es.wikipedia.org/wiki/MP3 "MP3")
-
-Vorbis ([Ogg](http://es.wikipedia.org/wiki/Ogg "Ogg"))
-
-[WMA](http://es.wikipedia.org/wiki/WMA "WMA")
-
-Tipo de compresión
-
-Con pérdidas, Híbrido
-
-Con pérdidas
-
-Con pérdidas
-
-Con pérdidas, Sin pérdidas
-
-Frecuencia de muestreo
-
-8kHz a 192kHz
-
-8, 11.025, 12, 16, 22.05, 24, 32, 44.1, 48kHz
-
-1Hz a 200kHz
-
-8, 11.025, 12, 16, 22.05, 32, 44.1, 48, 96kHz
-
-Tasa de bits
-
-8-529Kbps (estéreo)
-
-8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320 Kbps
-
-Variable
-
-4-768kbps / variable (sin pérdidas)
-
-Bits por muestra
-
-Cualquiera
-
-Cualquiera
-
-Cualquiera
-
-16, 24 (modo sin pérdidas) / Cualquiera (modo con pérdidas)
-
-CBR
-
-Si
-
-Si
-
-Si
-
-Si
-
-VBR
-
-Si
-
-Si
-
-Si
-
-Si
-
-Multicanal
-
-hasta 28 canales
-
-No
-
-hasta 255 canales
-
-hasta 8 canales (WMA Professional) / hasta 6 canales (WMA sin pérdidas)
 
 ## Ejemplos de códecs de audio  
 
-Sin pérdidas
+<table border="1" cellspacing="0" cellpadding="5">
+<tbody>
+<tr align="center">
+<td width="120px">Sin pérdidas</td>
+<td width="120px">Con pérdidas</td>
+<td width="100px">Códecs de voz</td>
+</tr>
+<tr>
+<td><a class="new" title="ALAC (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=ALAC&amp;action=edit&amp;redlink=1">ALAC</a>&nbsp;(Apple Lossless)
+<p><a class="mw-redirect" title="DST" href="http://es.wikipedia.org/wiki/DST">DST</a>&nbsp;(Direct Stream Transfer)</p>
+<p><a class="mw-redirect" title="FLAC" href="http://es.wikipedia.org/wiki/FLAC">FLAC</a>&nbsp;(Free Lossless Audio Codec)</p>
+<p><a class="new" title="Lossless Audio (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=Lossless_Audio&amp;action=edit&amp;redlink=1">LA</a>&nbsp;(Lossless Audio)</p>
+<p><a class="mw-redirect" title="LPAC" href="http://es.wikipedia.org/wiki/LPAC">LPAC</a>&nbsp;(Lossless Predictive Audio Codec)</p>
+<p><a title="Lossless Transform Audio Compression" href="http://es.wikipedia.org/wiki/Lossless_Transform_Audio_Compression">LTAC</a>&nbsp;(Lossless Transform Audio Codec)</p>
+<p><a class="mw-redirect" title="MLP" href="http://es.wikipedia.org/wiki/MLP">MLP</a>&nbsp;(Meridial Lossless Packing)</p>
+<p><a title="Monkey's Audio" href="http://es.wikipedia.org/wiki/Monkey%27s_Audio">Monkey's Audio</a>&nbsp;(APE)</p>
+<p><a class="new" title="MPEG-4 ALS (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=MPEG-4_ALS&amp;action=edit&amp;redlink=1">MPEG-4 ALS</a></p>
+<p><a class="new" title="MPEG-4 SLS (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=MPEG-4_SLS&amp;action=edit&amp;redlink=1">MPEG-4 SLS</a></p>
+<p><a class="new" title="OptimFROG (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=OptimFROG&amp;action=edit&amp;redlink=1">OptimFROG</a></p>
+<p><a class="new" title="QDesign (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=QDesign&amp;action=edit&amp;redlink=1">QDesign</a></p>
+<p><a class="new" title="RealAudio Lossless (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=RealAudio_Lossless&amp;action=edit&amp;redlink=1">RealAudio Lossless</a></p>
+<p><a class="new" title="RKAU (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=RKAU&amp;action=edit&amp;redlink=1">RKAU</a></p>
+<p><a title="Shorten" href="http://es.wikipedia.org/wiki/Shorten">Shorten</a>&nbsp;(SHN)</p>
+<p><a class="mw-redirect" title="TTA" href="http://es.wikipedia.org/wiki/TTA">TTA</a>&nbsp;(True Audio)</p>
+<p><a class="new" title="WavPack (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=WavPack&amp;action=edit&amp;redlink=1">WavPack</a></p>
+<p><a class="new" title="WMA lossless (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=WMA_lossless&amp;action=edit&amp;redlink=1">WMA lossless</a>&nbsp;(Windows Media Audio Lossless)</p>
+</td>
+<td>
+<p><a title="Advanced Audio Coding" href="http://es.wikipedia.org/wiki/Advanced_Audio_Coding">AAC</a>&nbsp;(Advanced Audio Coding)</p>
+<p><a title="HE-AAC" href="http://es.wikipedia.org/wiki/HE-AAC">HE-AAC</a>&nbsp;(High Efficiency Advance Audio Coding)</p>
+<p><a class="mw-redirect" title="AC3" href="http://es.wikipedia.org/wiki/AC3">AC3</a>&nbsp;(Dolby Digital A/52)</p>
+<p><a title="ADPCM" href="http://es.wikipedia.org/wiki/ADPCM">ADPCM</a></p>
+<p><a title="ADX" href="http://es.wikipedia.org/wiki/ADX">ADX</a>&nbsp;(videojuegos)</p>
+<p><a class="mw-redirect" title="ATRAC" href="http://es.wikipedia.org/wiki/ATRAC">ATRAC</a>&nbsp;(Adaptive TRansform Acoustic Coding)</p>
+<p><a class="new" title="DRA (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=DRA&amp;action=edit&amp;redlink=1">DRA</a></p>
+<p><a class="mw-redirect" title="DTS" href="http://es.wikipedia.org/wiki/DTS">DTS</a>&nbsp;(Digital Theather Systems)</p>
+<p><a class="mw-redirect" title="MP1" href="http://es.wikipedia.org/wiki/MP1">MP1</a>&nbsp;(MPEG audio layer-1)</p>
+<p><a title="MP2" href="http://es.wikipedia.org/wiki/MP2">MP2</a>&nbsp;(MPEG audio layer-2)</p>
+<p><a title="MP3" href="http://es.wikipedia.org/wiki/MP3">MP3</a>&nbsp;(MPEG audio layer-3)</p>
+<p><a title="Mp3PRO" href="http://es.wikipedia.org/wiki/Mp3PRO">mp3PRO</a></p>
+<p><a title="Musepack" href="http://es.wikipedia.org/wiki/Musepack">Musepack</a></p>
+<p><a class="mw-redirect" title="Ogg Vorbis" href="http://es.wikipedia.org/wiki/Ogg_Vorbis">Ogg Vorbis</a></p>
+<p><a title="Opus (códec)" href="http://es.wikipedia.org/wiki/Opus_(c%C3%B3dec)">Opus</a></p>
+<p><a class="new" title="Perceptual Audio Coding (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=Perceptual_Audio_Coding&amp;action=edit&amp;redlink=1">Perceptual Audio Coding</a></p>
+<p><a class="mw-redirect" title="RTA" href="http://es.wikipedia.org/wiki/RTA">RTA</a>&nbsp;(Real Time Audio Codec)</p>
+<p><a title="TwinVQ" href="http://es.wikipedia.org/wiki/TwinVQ">TwinVQ</a></p>
+<p><a title="Siren" href="http://es.wikipedia.org/wiki/Siren">Siren</a></p>
+<p><a class="mw-redirect" title="WMA" href="http://es.wikipedia.org/wiki/WMA">WMA</a>&nbsp;(Windows Media Audio)</p>
+</td>
+<td>
+<p><a class="new" title="AMBE (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=AMBE&amp;action=edit&amp;redlink=1">AMBE</a></p>
+<p><a class="new" title="Compresión multitasa adaptativa (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=Compresi%C3%B3n_multitasa_adaptativa&amp;action=edit&amp;redlink=1">AMR</a></p>
+<p><a class="mw-redirect" title="CELP" href="http://es.wikipedia.org/wiki/CELP">CELP</a></p>
+<p><a class="new" title="CELT (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=CELT&amp;action=edit&amp;redlink=1">CELT</a></p>
+<p><a title="EVRC" href="http://es.wikipedia.org/wiki/EVRC">EVRC</a></p>
+<p><a title="G.711" href="http://es.wikipedia.org/wiki/G.711">G.711</a></p>
+<p><a class="new" title="G.722 (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=G.722&amp;action=edit&amp;redlink=1">G.722</a></p>
+<p><a class="new" title="G.723 (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=G.723&amp;action=edit&amp;redlink=1">G.723</a></p>
+<p><a class="new" title="G.726 (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=G.726&amp;action=edit&amp;redlink=1">G.726</a></p>
+<p><a title="G.728" href="http://es.wikipedia.org/wiki/G.728">G.728</a></p>
+<p><a title="G.729" href="http://es.wikipedia.org/wiki/G.729">G.729</a></p>
+<p><a class="mw-redirect" title="GSM" href="http://es.wikipedia.org/wiki/GSM">GSM</a></p>
+<p><a class="new" title="HILN (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=HILN&amp;action=edit&amp;redlink=1">HILN</a>&nbsp;(MPEG-4 paramétrico)</p>
+<p><a class="new" title="ILBC (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=ILBC&amp;action=edit&amp;redlink=1">iLBC</a></p>
+<p><a class="new" title="IMBE (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=IMBE&amp;action=edit&amp;redlink=1">IMBE</a></p>
+<p><a class="new" title="Perceptual Audio Coding (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=Perceptual_Audio_Coding&amp;action=edit&amp;redlink=1">Perceptual Audio Coding</a>&nbsp;(radio digital y satélite)</p>
+<p><a title="Speex" href="http://es.wikipedia.org/wiki/Speex">Speex</a></p>
+<p><a class="mw-redirect" title="SMV" href="http://es.wikipedia.org/wiki/SMV">SMV</a></p>
+<p><a class="new" title="QCELP (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=QCELP&amp;action=edit&amp;redlink=1">QCELP</a></p>
+<p><a class="new" title="VSELP (aún no redactado)" href="http://es.wikipedia.org/w/index.php?title=VSELP&amp;action=edit&amp;redlink=1">VSELP</a></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Con pérdidas
-
-Códecs de voz
-
-[ALAC](http://es.wikipedia.org/w/index.php?title=ALAC&action=edit&redlink=1 "ALAC (aún no redactado)") (Apple Lossless)
-
-[DST](http://es.wikipedia.org/wiki/DST "DST") (Direct Stream Transfer)
-
-[FLAC](http://es.wikipedia.org/wiki/FLAC "FLAC") (Free Lossless Audio Codec)
-
-[LA](http://es.wikipedia.org/w/index.php?title=Lossless_Audio&action=edit&redlink=1 "Lossless Audio (aún no redactado)") (Lossless Audio)
-
-[LPAC](http://es.wikipedia.org/wiki/LPAC "LPAC") (Lossless Predictive Audio Codec)
-
-[LTAC](http://es.wikipedia.org/wiki/Lossless_Transform_Audio_Compression "Lossless Transform Audio Compression") (Lossless Transform Audio Codec)
-
-[MLP](http://es.wikipedia.org/wiki/MLP "MLP") (Meridial Lossless Packing)
-
-[Monkey's Audio](http://es.wikipedia.org/wiki/Monkey%27s_Audio "Monkey's Audio") (APE)
-
-[MPEG-4 ALS](http://es.wikipedia.org/w/index.php?title=MPEG-4_ALS&action=edit&redlink=1 "MPEG-4 ALS (aún no redactado)")
-
-[MPEG-4 SLS](http://es.wikipedia.org/w/index.php?title=MPEG-4_SLS&action=edit&redlink=1 "MPEG-4 SLS (aún no redactado)")
-
-[OptimFROG](http://es.wikipedia.org/w/index.php?title=OptimFROG&action=edit&redlink=1 "OptimFROG (aún no redactado)")
-
-[QDesign](http://es.wikipedia.org/w/index.php?title=QDesign&action=edit&redlink=1 "QDesign (aún no redactado)")
-
-[RealAudio Lossless](http://es.wikipedia.org/w/index.php?title=RealAudio_Lossless&action=edit&redlink=1 "RealAudio Lossless (aún no redactado)")
-
-[RKAU](http://es.wikipedia.org/w/index.php?title=RKAU&action=edit&redlink=1 "RKAU (aún no redactado)")
-
-[Shorten](http://es.wikipedia.org/wiki/Shorten "Shorten") (SHN)
-
-[TTA](http://es.wikipedia.org/wiki/TTA "TTA") (True Audio)
-
-[WavPack](http://es.wikipedia.org/w/index.php?title=WavPack&action=edit&redlink=1 "WavPack (aún no redactado)")
-
-[WMA lossless](http://es.wikipedia.org/w/index.php?title=WMA_lossless&action=edit&redlink=1 "WMA lossless (aún no redactado)") (Windows Media Audio Lossless)
-
-[AAC](http://es.wikipedia.org/wiki/Advanced_Audio_Coding "Advanced Audio Coding") (Advanced Audio Coding)
-
-[HE-AAC](http://es.wikipedia.org/wiki/HE-AAC "HE-AAC") (High Efficiency Advance Audio Coding)
-
-[AC3](http://es.wikipedia.org/wiki/AC3 "AC3") (Dolby Digital A/52)
-
-[ADPCM](http://es.wikipedia.org/wiki/ADPCM "ADPCM")
-
-[ADX](http://es.wikipedia.org/wiki/ADX "ADX") (videojuegos)
-
-[ATRAC](http://es.wikipedia.org/wiki/ATRAC "ATRAC") (Adaptive TRansform Acoustic Coding)
-
-[DRA](http://es.wikipedia.org/w/index.php?title=DRA&action=edit&redlink=1 "DRA (aún no redactado)")
-
-[DTS](http://es.wikipedia.org/wiki/DTS "DTS") (Digital Theather Systems)
-
-[MP1](http://es.wikipedia.org/wiki/MP1 "MP1") (MPEG audio layer-1)
-
-[MP2](http://es.wikipedia.org/wiki/MP2 "MP2") (MPEG audio layer-2)
-
-[MP3](http://es.wikipedia.org/wiki/MP3 "MP3") (MPEG audio layer-3)
-
-[mp3PRO](http://es.wikipedia.org/wiki/Mp3PRO "Mp3PRO")
-
-[Musepack](http://es.wikipedia.org/wiki/Musepack "Musepack")
-
-[Ogg Vorbis](http://es.wikipedia.org/wiki/Ogg_Vorbis "Ogg Vorbis")
-
-[Opus](http://es.wikipedia.org/wiki/Opus_(c%C3%B3dec) "Opus (códec)")
-
-[Perceptual Audio Coding](http://es.wikipedia.org/w/index.php?title=Perceptual_Audio_Coding&action=edit&redlink=1 "Perceptual Audio Coding (aún no redactado)")
-
-[RTA](http://es.wikipedia.org/wiki/RTA "RTA") (Real Time Audio Codec)
-
-[TwinVQ](http://es.wikipedia.org/wiki/TwinVQ "TwinVQ")
-
-[Siren](http://es.wikipedia.org/wiki/Siren "Siren")
-
-[WMA](http://es.wikipedia.org/wiki/WMA "WMA") (Windows Media Audio)
-
-[AMBE](http://es.wikipedia.org/w/index.php?title=AMBE&action=edit&redlink=1 "AMBE (aún no redactado)")
-
-[AMR](http://es.wikipedia.org/w/index.php?title=Compresi%C3%B3n_multitasa_adaptativa&action=edit&redlink=1 "Compresión multitasa adaptativa (aún no redactado)")
-
-[CELP](http://es.wikipedia.org/wiki/CELP "CELP")
-
-[CELT](http://es.wikipedia.org/w/index.php?title=CELT&action=edit&redlink=1 "CELT (aún no redactado)")
-
-[EVRC](http://es.wikipedia.org/wiki/EVRC "EVRC")
-
-[G.711](http://es.wikipedia.org/wiki/G.711 "G.711")
-
-[G.722](http://es.wikipedia.org/w/index.php?title=G.722&action=edit&redlink=1 "G.722 (aún no redactado)")
-
-[G.723](http://es.wikipedia.org/w/index.php?title=G.723&action=edit&redlink=1 "G.723 (aún no redactado)")
-
-[G.726](http://es.wikipedia.org/w/index.php?title=G.726&action=edit&redlink=1 "G.726 (aún no redactado)")
-
-[G.728](http://es.wikipedia.org/wiki/G.728 "G.728")
-
-[G.729](http://es.wikipedia.org/wiki/G.729 "G.729")
-
-[GSM](http://es.wikipedia.org/wiki/GSM "GSM")
-
-[HILN](http://es.wikipedia.org/w/index.php?title=HILN&action=edit&redlink=1 "HILN (aún no redactado)") (MPEG-4 paramétrico)
-
-[iLBC](http://es.wikipedia.org/w/index.php?title=ILBC&action=edit&redlink=1 "ILBC (aún no redactado)")
-
-[IMBE](http://es.wikipedia.org/w/index.php?title=IMBE&action=edit&redlink=1 "IMBE (aún no redactado)")
-
-[Perceptual Audio Coding](http://es.wikipedia.org/w/index.php?title=Perceptual_Audio_Coding&action=edit&redlink=1 "Perceptual Audio Coding (aún no redactado)") (radio digital y satélite)
-
-[Speex](http://es.wikipedia.org/wiki/Speex "Speex")
-
-[SMV](http://es.wikipedia.org/wiki/SMV "SMV")
-
-[QCELP](http://es.wikipedia.org/w/index.php?title=QCELP&action=edit&redlink=1 "QCELP (aún no redactado)")
-
-[VSELP](http://es.wikipedia.org/w/index.php?title=VSELP&action=edit&redlink=1 "VSELP (aún no redactado)")
-
-Colaboradores de Wikipedia, "Códec de audio," _Wikipedia, La enciclopedia libre,_ [http://es.wikipedia.org/w/index.php?title=C%C3%B3dec\_de\_audio&oldid=69055756](http://es.wikipedia.org/w/index.php?title=C%C3%B3dec_de_audio&oldid=69055756) (descargado 12 de
-
+Colaboradores de Wikipedia, "Códec de audio," _Wikipedia, La enciclopedia libre,_ [http://es.wikipedia.org/w/index.php?title=C%C3%B3dec\_de\_audio&oldid=69055756](http://es.wikipedia.org/w/index.php?title=C%C3%B3dec_de_audio&oldid=69055756)

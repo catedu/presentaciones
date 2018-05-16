@@ -2,8 +2,6 @@
 
 ## Animaciones en Drive
 
-## Animaciones en Drive
-
 Visitar estos enlaces:
 
 [https://support.google.com/drive/answer/1689475?hl=es](https://support.google.com/drive/answer/1689475?hl=es)
@@ -16,11 +14,11 @@ Clic en imagen y Ver Imagen:
 
 **Añadir animaciones sencillas **a la presentación que estáis realizando.
 
-var feedback130\_89\_6text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Podemos añadir tantas animaciones a una diapositiva como queramos, una por figura.
 
 Para añadir una animación a una figura, seleccionarla y clic en **+Añadir animación** en el panel **Animaciones**. O clic con el botón derecho del ratón en la figura y seleccionar **Aplicar animación**.
+
+%/accordion%
 

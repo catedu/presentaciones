@@ -6,7 +6,7 @@ El fondo de una diapositiva aunque parezca un elemento secundario, juega un pape
 *   Juega con las diferentes texturas que ofrece el programa, así la textura de madera transmite un efecto cálido.
 *   Si empleas varios fondos intenta que la secuencia de los mismos sea de mayor a menor monotonía.
 
-**2.1 En PowerPoint**
+### 2.1 En PowerPoint
 
 Pdemos elegir los fondos de la diapositiva en este menú de **Diseño **
 
@@ -15,14 +15,14 @@ También podemos elegir una imagen nuestra en el diálogo que se muestra:
 
 ![](img/fondo.png)
 
+![](img/fondosenppt.png)
 
 
 
 
+Ver tutorial [http://aularagon.catedu.es/materialesaularagon2013/presentaciones/insertarfondospowerpoint.mp4](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/insertarfondospowerpoint.mp4)
 
-Ver tutorial [http://catedu.es/materialesaularagon2013/presentaciones/insertarfondospowerpoint.mp4](http://catedu.es/materialesaularagon2013/presentaciones/insertarfondospowerpoint.mp4)
-
-**2.2. En OpenOffice**
+### 2.2. En OpenOffice
 
 Podemos empezar a seleccionar el fondo en el asistente:
 
@@ -37,7 +37,7 @@ Podemos empezar a seleccionar el fondo en el asistente:
 Si no nos gusta el fondo. Clic Botón derecho sobre la diapositivas que estamos. Elegir **Diapositiva** \> pestañita negra y elegir **Definir imagen de fondo para diapositivas…**
 
 
-**![Definir imagen de fondo OpenOffice](img/fondo_en_openoffice.png "Imagen Fondo Impress")**
+![Definir imagen de fondo OpenOffice](img/fondo_en_openoffice.png "Imagen Fondo Impress")
 
 
 
@@ -46,10 +46,10 @@ Si no nos gusta el fondo. Clic Botón derecho sobre la diapositivas que estamos.
 
 Vamos jugando con estas opciones y colocamos el fondo igual que lo hacemos con otros programas.
 
-**2.3. En Drive**
+### 2.3. En Drive
 
 
-**![Insertar Fondo en Google Drive](img/insertarfondodrive.png "Fondo Drive Presentaciones")**
+![Insertar Fondo en Google Drive](img/insertarfondodrive.png "Fondo Drive Presentaciones")
 
 
 
@@ -62,21 +62,19 @@ Por otro lado si tenemos Álbumes creados en nuestro Drive, podemos seleccionar 
 
 Si no me convencen, puedo ir a Búsqueda (línea roja **.-.-**) se abre una ventana, que me permite buscarla en Google, Life o de archivo.
 
-**2.4.     En Keynote**
+### 2.4.     En Keynote
 
-### **Para modificar el fondo de una diapositiva maestra:**
+#### Para modificar el fondo de una diapositiva maestra:
 
-1  Seleccionar la diapositiva maestra con la que deseamos trabajar.
+1.  Seleccionar la diapositiva maestra con la que deseamos trabajar.
 
-2  Seleccionar los elementos no deseados y pulsar la tecla Suprimir.
+2.  Seleccionar los elementos no deseados y pulsar la tecla Suprimir.
 
-3  Si deseamos que un objeto (figura, imagen, sonido o archivo de película, tabla o gráfica) sea un elemento de fondo, añadirlo a la diapositiva maestra y editar su tamaño y posición en la diapositiva.
+3.  Si deseamos que un objeto (figura, imagen, sonido o archivo de película, tabla o gráfica) sea un elemento de fondo, añadirlo a la diapositiva maestra y editar su tamaño y posición en la diapositiva. Después de colocar un objeto, podemos seleccionar **Disposición** \> **Bloquear** para evitar moverlo sin darnos cuenta mientras trabajamos.
 
-Después de colocar un objeto, podemos seleccionar **Disposición** \> **Bloquear** para evitar moverlo sin darnos cuenta mientras trabajamos.
+4.  Para permitir que los objetos de la diapositiva maestra se entrelacen con los objetos añadidos a las diapositivas basadas en dicha diapositiva maestra, abrir el Inspector de las diapositivas maestras, clic en **Apariencia** y seleccione “**Permitir apilar los objetos de la diapositiva con la diapositiva maestra**”.
 
-4  Para permitir que los objetos de la diapositiva maestra se entrelacen con los objetos añadidos a las diapositivas basadas en dicha diapositiva maestra, abrir el Inspector de las diapositivas maestras, clic en **Apariencia** y seleccione “**Permitir apilar los objetos de la diapositiva con la diapositiva maestra**”.
-
-5  Para rellenar el fondo de la diapositiva con un color o una imagen, utilizar los controles de Fondo del panel Apariencia disponibles en el Inspector de las diapositivas maestras.
+5.  Para rellenar el fondo de la diapositiva con un color o una imagen, utilizar los controles de Fondo del panel Apariencia disponibles en el Inspector de las diapositivas maestras.
 
 Un uso habitual de las capas de fondo es para gráficos de canal alfa (gráficos con transparencia); se pueden añadir objetos a una diapositiva y apilarlos para que se muestren a través de parte de la imagen de fondo.
 
@@ -99,7 +97,7 @@ Si aplicamos un relleno de imagen, en el menú local podemos elegir una manera d
 Si aplicamos un degradado, podemos ajustar su ángulo mediante la rueda correspondiente.
 
 
-
+![](img/fondo_en_mac.png)
 
 
 ### Cambiar el tema de la presentación

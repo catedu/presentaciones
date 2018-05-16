@@ -36,9 +36,7 @@ Referencia: Páginas de consulta como orientación y asesoramiento.
 8.  **Descripción de la actividad:** el visionado de la película se llevo a cabo una vez planteado en clase el tema de..... y la importancia que este puede llegar a tener como medio de  evitar....... A partir  de la proyección de la película se plantearon en clase pequeños debates y puestas en común sobre las actuaciones correctas y modos de .... Además  analizamos los diferentes personajes, sus diferentes actitudes y comportamientos, sacando conclusiones que compararíamos con las normas establecidas en el aula, y a las que hacemos referencia continuamente.
 9.  ..... 
 
-var feedbackquesFeedback0b126text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Recuerdo en unas jornadas una ponencia que explicaba los conceptos de la física con trozos de películas.
 
@@ -50,8 +48,7 @@ Actividades realizadas antes del visionado de la película:
 
 *   Hablar sobre los diferentes géneros de las películas, incidiendo en la ciencia ficción,
     
-
-     nombrar películas que hayan visto de ese género: personajes, argumento
+*   Nombrar películas que hayan visto de ese género: personajes, argumento
 
 *   Nombrar cuentos o libros que conozcan de dicho género.
     
@@ -89,4 +86,7 @@ Actividades realizadas antes del visionado de la película:
 **Evaluación**: se llevo a cabo principalmente durante el proyección de la película...
 
 **Memoria y conclusiones:** en general, los objetivos planteados a la hora de elegir este recurso....  
+
+%/accordion%
+
 

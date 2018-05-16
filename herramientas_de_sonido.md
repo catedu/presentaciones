@@ -1,6 +1,6 @@
 # Herramientas de sonido
 
-**Administrar sonido en PowerPoint**
+### Administrar sonido en PowerPoint
 
 Si pinchamos sobre el audio que hemos insertado en la diapositiva automáticamente en la parte superior aparece el menú **Herramientas de sonido**
 
@@ -27,9 +27,7 @@ La opción la tenemos en **Reproducir sonido.**
 
 ¿qué significa _Tamaño máximo de un archivo de sonido (KB) 100_ ?
 
-var feedback155_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 La respuesta no es evidente, pero si has trabajado la sección de ATENCIÓN de la unidad de Películas lo podrás entender:
 
@@ -41,7 +39,11 @@ Si marca 100K significa:
 
 Mientras que si insertamos un archivo de audio (que suelen ocupar más de 100K) PowerPoint no los incorpora, por lo tanto **HAY QUE TENER LAS MISMAS PRECAUCIONES QUE VIMOS EN LAS PELÍCULAS** EN ATENCIÓN
 
-**¿Y si quiero que sólo se oiga unas determinadas diapositivas?**
+%/accordion%
+
+
+
+### ¿Y si quiero que sólo se oiga unas determinadas diapositivas?
 
 Esto es interesantes si la presentación lleva otros elementos, por ejemplo un vídeo, entonces no queremos que la música se interponga, pero queremos que se oiga hasta x diapositivas.
 
@@ -55,7 +57,7 @@ Como es un poco complicado, más vale una imagen que mil palabras:
 
 
 
-**Administrar sonido en OpenOffice Impress**
+### Administrar sonido en OpenOffice Impress
 
 Cuidado debemos **guardar los sonidos en la carpeta de la  presentación:** Los archivos de sonido no se incrustan en el archivo de la presentación.
 
@@ -94,7 +96,7 @@ Si marcamos la casilla **Repetir hasta el próximo sonido** que se encuentra deb
 Para configurar un objeto para que reproduzca un sonido haremos clic con el botón derecho sobre él, y en el menú contextual seleccionaremos **Interacción,** se mostrará un cuadro de diálogo en el que deberemos seleccionar **Reproducir sonid**o y luego el archivo tras hacer click en el botón **Examinar **
 
 
-**![Configurar Sonido Impress](img/sonidoOpenOfficeOmpress.png "Configurar Sonido Impress")**
+![Configurar Sonido Impress](img/sonidoOpenOfficeOmpress.png "Configurar Sonido Impress")
 
 
 

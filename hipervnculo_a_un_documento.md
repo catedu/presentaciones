@@ -1,6 +1,6 @@
 # Hipervínculo a un documento
 
-**Hipervínculo a un documento en PowerPoint**
+#### Hipervínculo a un documento en PowerPoint
 
 *   Hipervínculo a un documento
 
@@ -17,13 +17,8 @@
 
 ![Enlace a documento](img/m3433.png "Enlace a documento")
 
-
-
-
-
-
   
-**ATENCIÓN **el documento tiene que estar **previamente **en la carpeta donde está guardada la presentación, ocurre igual que los sonidos y los vídeos, si no se hace esto, el hipervínculo se queda con una ruta absoluta que hace no funciona en otros ordenadores.
+**ATENCIÓN** el documento tiene que estar **previamente **en la carpeta donde está guardada la presentación, ocurre igual que los sonidos y los vídeos, si no se hace esto, el hipervínculo se queda con una ruta absoluta que hace no funciona en otros ordenadores.
 
 
 ![Enlace apunta a misma carpeta ](img/m3434.png "Guardar proyecto en una misma carpeta")
@@ -42,13 +37,11 @@
 
 Hemos detectado que los hipervínculos a documentos realizados en los botones de acción no funcionan correctamente en otro ordenador (hace referencias absolutas, no relativas, esto lo veremos más adelante), parece ser que están diseñados sólo para hacer hipervínculos a otras diapositivas.
 
-****Hipervínculo a un documento en **OpenOffice**
+### Hipervínculo a un documento en OpenOffice
 
 ####  Abrir otro documento de nuestra máquina.
 
-
-
-
+![](img/enlaceadocumentotxtenopeno.png)
 
 1.  Seleccionamos Nuevo documento
 2.  Buscamos la ruta (en nuestro caso hemos creado previamente el Documento.txt y hemos forzado poner ese nombre en la ruta, para que enlazara bien)
@@ -56,7 +49,7 @@ Hemos detectado que los hipervínculos a documentos realizados en los botones 
 4.  Nos gusta que se abra en una página en blanco o nueva. Podemos poner Texto y nombre y observar para que sirve.
 5.  Aplicar para grabar lo que hemos hecho y probarlo para ver si funciona. Si falla repetir el proceso y poner bien la ruta del documento. (La podemos buscar con navegador de archivos y copiar y pegar)
 
-**Hipervínculo a un documento en Drive**
+### Hipervínculo a un documento en Drive
 
 **Insertar un hipervínculo que vaya a una ubicación en el documento actual**
 
@@ -117,20 +110,19 @@ Los marcadores no se imprimen.
 
 Una forma más fácil, es el documento que tenemos abierto en Drive por ejemplo un texto, copiamos la ruta del navegador y le ponemos un enlace en el objeto o texto pegándolo y funciona también.
 
-**Hipervínculo  con un archivo de Keynote**
+### Hipervínculo  con un archivo de Keynote
 
-En este caso explicaremos algo similar  
-**Cómo agregar un hipervínculo que abre otro archivo de Keynote.**
+En este caso explicaremos algo similar  **Cómo agregar un hipervínculo que abre otro archivo de Keynote.**
 
   
 Para añadir un hipervínculo que abre otro documento de Keynote:
 
   
-1 **Seleccionamos** el texto o el **objeto** que deseemos convertir en un hipervínculo.  
-2 Clic en Inspector en la barra de herramientas, clic en el botón **Inspector de hipervínculos** y seleccionar **Activar como hipervínculo**.  
-3 Seleccionar Archivo de Keynote en el menú local **Enlazar con**.  
-4 Vamos hasta el archivo y clic en **Abrir**.  
-5 Si deseamos **cambiar el texto** que se muestra como hipervínculo en el documento, escribimos un texto nuevo **en el campo Mostrar.**
+1. **Seleccionamos** el texto o el **objeto** que deseemos convertir en un hipervínculo.  
+2. Clic en Inspector en la barra de herramientas, clic en el botón **Inspector de hipervínculos** y seleccionar **Activar como hipervínculo**.  
+3. Seleccionar Archivo de Keynote en el menú local **Enlazar con**.  
+4. Vamos hasta el archivo y clic en **Abrir**.  
+5. Si deseamos **cambiar el texto** que se muestra como hipervínculo en el documento, escribimos un texto nuevo **en el campo Mostrar.**
 
 Al hacer clic en un enlace a otro documento de Keynote, el nuevo pase de diapositivas comenzará a reproducirse desde la primera diapositiva.
 

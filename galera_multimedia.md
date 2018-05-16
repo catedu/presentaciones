@@ -1,6 +1,6 @@
 # Galería Multimedia
 
-**Galería Multimedia en PowerPoint**
+### Galería Multimedia en PowerPoint
 
 Para conseguir sonidos prediseñados, le damos a **Insertar** \- **Películas y sonidos** en la parte inferior del botón, entonces se nos abre un menú donde elegiremos **Desde Galería Multimedia.**
 
@@ -30,7 +30,7 @@ Al hacer clic encima para que el sonido o la película se reproduzca al hacer cl
   
 También podemos configurar que los sonidos o las películas **se reproduzcan durante la visualización** de varias diapositivas o se reproduzcan repetidamente. Las películas también se pueden reproducir a pantalla completa.
 
-**Galería Multimedia en OpenOffice Impress**
+### Galería Multimedia en OpenOffice Impress
 
 Impress está limitado en cuanto a diseños de presentación listos para usarse.
 
@@ -70,7 +70,7 @@ _**NUEVA ACTUALIZACIÓN: **La sección para descargar los paquetes se encuentra
 
 Verlo en: [http://openclipart.org/collections](http://openclipart.org/collections)
 
-**Pasos para instalar la galería**
+#### Pasos para instalar la galería
 
 Es válido instalar en cualquier distro GNU/Linux e incluso para instalar en window o Mac OS.
 

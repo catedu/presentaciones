@@ -8,13 +8,13 @@
 
 **Twitter** es un programa que para muchos, es un servicio inútil y sin sentido. Sin embargo, es importante reflexionar que en estas herramientas están perdiendo el tiempo nuestros alumnos. 
 
-Lo utilizamos para compartir páginas que nos gustan, enlaces a vídeos. Sigo a gente que me aporta información interesante. Por otro lado cuento a mis seguidores algo que he descubierto como me siento, si me ha gustado algo. Podemos tweetear una clase, un curso un congreso, preguntar opinar y el receptor lo ve al instante. Si me quieres seguir o comentar algo enviarme un tweet a [@claudiobarrabes ](https://twitter.com/claudiobarrabes "Twitter Autor")
+Lo utilizamos para compartir páginas que nos gustan, enlaces a vídeos. Sigo a gente que me aporta información interesante. Por otro lado cuento a mis seguidores algo que he descubierto como me siento, si me ha gustado algo. Podemos tweetear una clase, un curso un congreso, preguntar opinar y el receptor lo ve al instante.
 
 Otra cosa muy interesante son las **listas**: Una lista es un grupo seleccionado de usuarios de Twitter. Puedes crear tus propias listas o suscribirte a las listas creadas por otros usuarios. Al ver una cronología de lista se mostrará una cronología de Tweets realizados solamente por los usuarios que están incluidos en dicha lista.
 
 Aprendamos un poco sobre el programa:
 
-1\. **Inicio**: Me lleva a la páginas de los tweets (mensajes de menos de 140 caracteres). **@ Conecta:** enlaza con interacciones o acciones. **#Descubre: **
+1\. **Inicio**: Me lleva a la páginas de los tweets (mensajes de menos de 280 caracteres). **@ Conecta:** enlaza con interacciones o acciones. **#Descubre: **
 
 Tweets. Lo que está sucediendo ahora, hecho a tu medida.
 

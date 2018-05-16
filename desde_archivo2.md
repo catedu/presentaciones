@@ -7,7 +7,7 @@ Repasamos [U1 Insertar Sonido y películas:](u1_insertar_sonido_y_pelculas.html
 1.  En la ficha **1** **Insertar**, en el grupo **2** **Clips multimedia**, clic en la flecha situada bajo **Película**. Pero elegiremos en **3** Película de archivo.
     
 
-    ![Película de archivo](img/insertar-pelicula-archivo.png "Insertar Película desde archivo")
+![Película de archivo](img/insertar-pelicula-archivo.png "Insertar Película desde archivo")
 
     
 
@@ -15,12 +15,12 @@ Repasamos [U1 Insertar Sonido y películas:](u1_insertar_sonido_y_pelculas.html
 
 
 
- **PERO ATENCIÓN:** **ANTES DE REALIZAR ESTA OPERACIÓN, ASEGURARNOS QUE EL ARCHIVO ESTÁ EN LA MISMA CARPETA QUE LA PRESENTACIÓN**
+**PERO ATENCIÓN:** **ANTES DE REALIZAR ESTA OPERACIÓN, ASEGURARNOS QUE EL ARCHIVO ESTÁ EN LA MISMA CARPETA QUE LA PRESENTACIÓN**
 
 Si nos fijamos acepta muchos formatos, ver [Preliminares](formatos2.html) para ver cual es el correcto y si hay problemas de visualización
 
 
-![](img/pelicula2.PNG)
+![](img/pelicula2.png)
 
 
 
@@ -59,7 +59,7 @@ Recordar poner todo en una misma carpeta por si acaso.
 
 No nos compliquemos la vida en Drive hacerlo como vimos anteriormente.
 
-Unidad 1. [Repasar punto 1.3](u1_insertar_sonido_y_pelculas.html)
+Unidad 1. [Repasar punto 1.3](u1_insertar_sonido_y_pelculas.md)
 
 **Insertar Películas desde Drive**
 

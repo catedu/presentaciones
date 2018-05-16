@@ -38,14 +38,14 @@ Hemos insertado **Formas **> **Botón de acción** sin nada y posteriormente
   Nos hemos dado cuenta que el link está hecho sólo con el botón rectángulo y queremos reforzar, que cuando hagamos la presentación esté también vinculado el texto, lo hacemos como siempre: Seleccionamos -> botón derecho y seleccionamos **Hipervínculo**...  -> **Archivo o página Web existente**, pegando la dirección en **Dirección. **Lo comprobamos desde** Presentación de diapositivas, diapositiva actual, **vemos que el resultado es mejor, todo está vinculado a la Wikipedia.
 
 
- ![Insertar enlace](img/m483.png "A Página Web")
+![Insertar enlace](img/m483.png "Hipervínculo a página Web PowerPoint")
 
 
 
 
 
 
-****Hipervínculo a página Web **PowerPoint**
+
 
 **A tener en cuenta:**
 
@@ -65,12 +65,11 @@ Marcamos el objeto, o texto a enlazar en nuestro caso hemos puesto un texto, mar
 
 En nuestro caso hemos ido a un navegador y al encontrar la URL deseada (**Ctrl+C**) y hemos vuelto al programa y sobre el hueco de dirección hemos puesto esto, con (**Ctrl + V**): [http://tintadigital.wikispaces.com/](http://tintadigital.wikispaces.com/) que era la web que nos interesaba a nivel personal, enseñar en la presentación, la pegamos en **Dirección**: (**5**) y pasamos al punto **6** **Aceptar** y ya tenemos nuestro enlace a la página web.
 
-****Hipervínculo a página Web e**n OpenOffice** 
 
 #### Abrir una página web en el navegador web por omisión del ordenador. 
 
 
-
+![](img/enlacepaginaopenoff.png)
 
 
 #### Insertar direcciones de páginas Web
@@ -81,7 +80,7 @@ En nuestro caso hemos ido a un navegador y al encontrar la URL deseada (**Ctrl+C
 4.  ES importante tener en cuenta que  en Nombre, será el texto que nos saldrá vinculado y en nuestro caso www, no enlaza (como texto encima de la nube).
 5.  Aplicar para que se grabe el enlace a la web.
 
-****Hipervínculo a página Web en **Drive**
+###Hipervínculo a página Web en Drive
 
 **Insertar un hipervínculo que vaya a una pagina web**
 
@@ -98,7 +97,7 @@ Se puede acceder a las opciones que tiene cada hipervínculo, colocando el Rató
 Seleccionamos la opción modificar hipervínculo.
 
 
-**![Poner enlaces en Google Drive](img/ponerenlaces_en_drive.png "Enlaces en Drive Presentaciones")**
+![Poner enlaces en Google Drive](img/ponerenlaces_en_drive.png "Enlaces en Drive Presentaciones")
 
 
 
@@ -112,14 +111,14 @@ Veamos que al lado de cambiar el color del texto, también tenemos el símbolo e
 Una vez puesto el enlace, debajo de mismo me aparece en azul el enlace – **Cambiar** | **Eliminar**
 
 
-**![Enlace a Página Web](img/enlacewebdrive.png "Enlace a Página Web en Drive")**
+![Enlace a Página Web](img/enlacewebdrive.png "Enlace a Página Web en Drive")
 
 
 
 
 
 
-****Hipervínculo a página Web en **Keynote**
+### Hipervínculo a página Web en Keynote
 
 **Para añadir un hipervínculo que abre una página web:**
 
@@ -133,7 +132,7 @@ Una vez puesto el enlace, debajo de mismo me aparece en azul el enlace – **Ca
 
 5  Si deseamos cambiar el texto que se muestra como hipervínculo en el documento, escribir un texto nuevo en el campo Mostrar.
 
-
+![](img/enlacesheynote2.png)
 
 
 

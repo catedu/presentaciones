@@ -1,7 +1,5 @@
 # Más Hipervínculos
 
-**Más hipervínculos**
-
 Hemos insertado un cuadro de botones de acción desde **insertar** \> **Formas** y hemos elegido en botones de acción el cuadrado
 
 
@@ -48,13 +46,13 @@ Si elegimos hipervínculo a **Crear nuevo documento, nos crea un nuevo documento
 
 
 
-**OpenOffice**
+### OpenOffice
 
 #### Salir del pase de diapositivas.
 
 Siempre podemos apretar botón derecho y buscar el final de la presentación.
 
-
+![](img/finalpresentacionopen.png)
 
 
 

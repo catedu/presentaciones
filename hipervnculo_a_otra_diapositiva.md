@@ -12,7 +12,7 @@ Los botones de navegación en cada diapositiva facilita el poder retomar el cont
 
 Emplea los enlaces como elementos para crear interactividad directa con el alumnado. Así es útil emplear enlaces de preguntas con varias opciones y éstas son hipervínculos a sendas diapositivas de respuesta.
 
-**Hipervínculo a otra diapositiva en ****PowerPoint**
+### Hipervínculo a otra diapositiva en PowerPoint
 
 Los botones de acción se verán más adelante.
 
@@ -31,8 +31,7 @@ Cualquier elemento es enlazable a la primera, última, siguiente, anterior…dia
 
 *   Podemos insertar un botón sin icono, donde después colocaremos un texto encima de él que vaya a otra diapositiva, tal y como lo indica la figura
     
-
-    ![Insertar hipervínculo](img/m3431.png "Insertar hipervínculo")
+![Insertar hipervínculo](img/m3431.png "Insertar hipervínculo")
 
     
 
@@ -42,8 +41,7 @@ Cualquier elemento es enlazable a la primera, última, siguiente, anterior…dia
 
 *   Cualquier objeto podemos hacer que tenga un hipervínculo a otra diapositiva, por ejemplo en la figura es un cuadro de texto dando con el botón derecho a **Hipervínculo** luego a **Lugar de este documento** y seleccionar la diapositiva
     
-
-    ![Insertar hipervínculo](img/m3432.png "Insertar hipervínculo")
+![Insertar hipervínculo](img/m3432.png "Insertar hipervínculo")
 
     
 
@@ -51,11 +49,11 @@ Cualquier elemento es enlazable a la primera, última, siguiente, anterior…dia
 
 
 
-****Hipervínculo a otra diapositiva en **OpenOffice**
+### Hipervínculo a otra diapositiva en OpenOffice
 
 #### Ir a una diapositiva concreta.   
 
-
+![](img/a_otra_diapos_openoff.png)
 
 
 
@@ -76,7 +74,7 @@ Pasos para ir de la diapositiva 1 a la 2:
 
 Cuidado, de esta forma, no veré que el la flecha hay un enlace.
 
-
+![](img/iraotradiapositivaenOpenOff.png)
 
 
 
@@ -94,7 +92,7 @@ Si quiero que se veo una mano en la flecha, lo debo hacer con **Interacción** d
 2.  Interacción
 3.  Elegir dónde queremos ir...
 
-****Hipervínculo a otra diapositiva en **Drive**
+### Hipervínculo a otra diapositiva en Drive
 
 Con el resto de inserciones de enlaces, lo podemos hacer en texto y objetos. Nosotros hemos elegido una forma similar a la flecha 3, que por ciento podríamos poner un número para recordar hacia dónde va.
 
@@ -104,7 +102,7 @@ Con el resto de inserciones de enlaces, lo podemos hacer en texto y objetos. Nos
 ![Enlazar a otra diapositiva en google Drive](img/enlaceotradiapodrive.png "Enlazar a otra diapositiva en google Drive")
 
 
-****Hipervínculo a otra diapositiva en **Keynote**
+### Hipervínculo a otra diapositiva en Keynote
 
 **¿Cómo ir a una diapositiva concreta?**
 

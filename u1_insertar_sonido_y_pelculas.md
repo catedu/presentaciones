@@ -2,9 +2,9 @@
 
 Vamos ha hacer una breve introducción de como se insertan Sonido y Vídeo y los 4 programas que estamos viendo, para pasar a estudiarlos en más profundidad en la Unidad U1 apartados: **1.1 Sonidos** y en **1.2 Películas**. Son los apuntes que realizamos en el 2012 actualizados al presente curso.
 
-**1.1.    PowerPoint**
+## 1.1.    PowerPoint
 
-**Sonido**
+### Sonido
 
 Para evitar posibles problemas con los vínculos, se recomienda **copiar los sonidos en la misma carpeta que la presentación antes de agregarlos a la misma**.
 
@@ -19,36 +19,21 @@ Realizarlo de forma correcta se produce un **direccionamiento relativo**, es dec
 3.  Clic en la diapositiva a la que deseamos agregar un sonido.
 4.  En la ficha **1****Insertar**, en el grupo **Clip multimedia**, clic en la flecha situada bajo **2****Sonido**.
     
-
-    ![Insertar Sonido desde Archivo](img/sonido-desde-archivo.png "Insertar Sonido desde Archivo")
-
-    
-
-
-
+![Insertar Sonido desde Archivo](img/sonido-desde-archivo.png "Insertar Sonido desde Archivo")
 
 
 1.  Sigamos pasos:
     *   Clic en **Sonido de archivo**, **4** busquemos la carpeta que contiene el archivo y  doble clic en el archivo que deseemos agregar.
     *   Elijamos **5** si queremos que se reproduzca **Automáticamente** o **Al hacer Clic encima**.
     *   Siempre podremos modificar esto en **Opciones de Sonido:**
-
-
-![opciones sonido](img/opciones-de-sonido.png "opciones sonido")
-
-
-
-
-
-
-1.  *   **Desde Sonido de la Galería multimedia**, desplacémonos hasta el clip que deseemos en el panel de tareas **Imágenes prediseñadas** y, a continuación, clic en él para agregarlo a la diapositiva.
-        
-        **Sugerencia**  podemos obtener una vista previa de un clip antes de agregarlo a la presentación. En el panel de tareas **Imágenes prediseñadas**, en el cuadro **Resultados** que muestra los clips disponibles, movamos el puntero del _mouse_ sobre la vista en miniatura del clip. Clic en la flecha que aparece y, a continuación, clic en **Vista previa o propiedades**.
+    ![opciones sonido](img/opciones-de-sonido.png "opciones sonido")
+    *   **Desde Sonido de la Galería multimedia**, desplacémonos hasta el clip que deseemos en el panel de tareas **Imágenes prediseñadas** y, a continuación, clic en él para agregarlo a la diapositiva.
+    * **Sugerencia**  podemos obtener una vista previa de un clip antes de agregarlo a la presentación. En el panel de tareas **Imágenes prediseñadas**, en el cuadro **Resultados** que muestra los clips disponibles, movamos el puntero del _mouse_ sobre la vista en miniatura del clip. Clic en la flecha que aparece y, a continuación, clic en **Vista previa o propiedades**.
         
 
 Podemos conseguir canciones con diferentes permisos de la Web [Jamendo.com](http://www.jamendo.com/es/ "Música")
 
-**Películas**
+### Películas
 
 Lo más importante será aprender a descargar los archivos por si los queremos utilizar off line.
 
@@ -58,15 +43,14 @@ No es posible agregar una película digital de un DVD de vídeo a una presentaci
 
 Es posible descargar la película de un DVD en un formato AVI compatible con Power Point, pero hay que tener en cuenta que al menos que tengamos licencia para hacerlo, viola los derechos de autor. [http://www.mundodivx.com/](http://www.mundodivx.com/) 
 
-Agregar una película
+### Agregar una película
 
 Para evitar posibles problemas con los vínculos, es conveniente **copiar las películas en la misma carpeta que la presentación** antes de agregarlas a la presentación.
 
 1.  En la vista Normal, clic en la diapositiva a la que deseamos agregar una película o un archivo GIF animado.
 2.  En la ficha **1** **Insertar**, en el grupo **2** **Clips multimedia**, clic en la flecha situada bajo **Película**.
     
-
-    ![Película de archivo](img/insertar-pelicula-archivo.png "Insertar Película desde archivo")
+![Película de archivo](img/insertar-pelicula-archivo.png "Insertar Película desde archivo")
 
     
 
@@ -81,8 +65,7 @@ Para evitar posibles problemas con los vínculos, es conveniente **copiar las pe
         **Sugerencia**  Podemos obtener una vista previa de un clip antes de agregarlo a la presentación. En el panel de tareas **Imágenes prediseñadas**, en el cuadro **Resultados** que muestra los clips disponibles, mover el puntero del _mouse_ sobre la vista en miniatura del clip, clic en la flecha que aparece y, a continuación, en **Vista previa o propiedades**.
         
 
-**Elegir entre Automáticamente o Al hacer clic encima**
-
+### Elegir entre Automáticamente o Al hacer clic encima
   
 Al insertar una película, un mensaje le pregunta cómo desea que se inicie la película: automáticamente (**Automáticamente**) o al hacer clic en la película (**Al hacer clic encima**).
 
@@ -106,7 +89,7 @@ Al insertar una película, se agrega un efecto desencadenador de pausa. Se conoc
 
 *   [Formatos de audio y vídeo compatibles con PowerPoint 2010](http://office.microsoft.com/es-es/powerpoint-help/formatos-de-audio-y-video-compatibles-con-powerpoint-2010-HA010336709.aspx)
 
-**1.2. En OpenOffice**
+### 1.2. En OpenOffice
 
 ### Cómo insertar Sonido
 
@@ -134,9 +117,9 @@ IMPORTANTE: Debajo de la lista desplegable de sonido, hay una casilla de verifi
 
 ### Cómo Insertar Vídeo en OpenOffice
 
-[http://www.youtube.com/watch?v=PrrwNL_T43Q](http://www.youtube.com/watch?v=PrrwNL_T43Q)
+{% youtube %}https://www.youtube.com/watch?v=kBDRSTQKoUY{% endyoutube %}
 
-**1.3. En Drive**
+### 1.3. En Drive
 
 Lo podremos hacer desde la red, pero deberemos hacerlo como si fuera un vídeo, ver imagen:
 
@@ -152,7 +135,7 @@ Lo podremos hacer desde la red, pero deberemos hacerlo como si fuera un vídeo, 
 
 *   [Cómo insertar un vídeo o una imagen en una diapositiva en Drive](https://support.google.com/drive/answer/1696522?hl=es&ref_topic=1694924)
 
-**1.4. En Keynote**
+### 1.4. En Keynote
 
 Podemos dar vida al pase de diapositivas añadiendo una pista de sonido, o reproduciendo música, un efecto de sonido o una película en cualquier momento en una diapositiva. Keynote también proporciona herramientas para grabar una narración en of para su pase de diapositivas, lo que resulta especialmente útil para pases de diapositivas de reproducción automática.
 
@@ -202,7 +185,5 @@ Al guardar los archivos multimedia con un documento, éste se hace mucho mayor.
 
 Imagen cogida de: [http://www.downloadsource.es/iwork-la-suite-ofimatica-de-apple/a/84/](http://www.downloadsource.es/iwork-la-suite-ofimatica-de-apple/a/84/)
 
-
- (Fig.5.1.4: C.Barrabés, montaje pantalla captura web, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/)[Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
 
 

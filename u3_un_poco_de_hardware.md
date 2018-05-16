@@ -1,6 +1,6 @@
 # U.3. Un poco de hardware.
 
-**Protocolo de Aula**
+### Protocolo de Aula
 
 Ya hemos preparado nuestra presentación.
 
@@ -33,14 +33,13 @@ Para consultar ahora el documento, pulsa [AQUÍ](http://www.catedu.es/Escuela20
 **Conexiones Pc Sobremesa:**
 
 
-**![Conexiones PC](img/Torre-PC.png "Ordenador con 2 tarjetas Gráficas")**
+![Conexiones PC](img/Torre-PC.png "Ordenador con 2 tarjetas Gráficas")
 
 
 
 
 
-
-**El Vídeo proyector**
+### El Vídeo proyector
 
 Lo normal es conectarlo a un portátil aunque en el caso de tenerlo instalado fijo,puede interesar conectarle un ordenador de sobremesa.
 

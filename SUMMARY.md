@@ -68,12 +68,12 @@ ____
 * [U.3 Insertar Organigramas](u3_insertar_organigramas.md)
 * [Para saber más](para_saber_ms2.md)
 * [Aplicación didáctica](aplicacin_didctica2.md)
--->
 
-### Módulo 3. DINAMIZANDO | MÓDULO 3: DINAMIZANDO PRESENTACIONES: Hiperenlaces, Fondos, numeración de páginas y pie de página.  
-* [Módulo 3. DINAMIZANDO](index3.md)
+
+### 3. DINAMIZANDO PRESENTACIONES: Hiperenlaces, Fondos, numeración de páginas y pie de página.  
+* [DINAMIZANDO](index3.md)
 * [Contenidos](contenidos3.md)
-* [U.1. 	Insertar Hipervínculos](u1_insertar_hipervnculos.md)
+* [U.1. Insertar Hipervínculos](u1_insertar_hipervnculos.md)
 	* [Hipervínculo a web](hipervnculo_a_web.md)
 	* [Hipervínculo a correo electrónico](hipervnculo_a_correo_electrnico.md)
 	* [Hipervínculo a otra diapositiva](hipervnculo_a_otra_diapositiva.md)
@@ -82,15 +82,15 @@ ____
 	* [Hipervínculo a un documento](hipervnculo_a_un_documento.md)
 	* [Más Hipervínculos](ms_hipervnculos.md)
 	* [Práctica 3.1.1](prctica_311.md)
-* [U.2. 	Insertar Fondos](u2_insertar_fondos.md)
+* [U.2. Insertar Fondos](u2_insertar_fondos.md)
 * [U3 Patrón de diapositivas](u3_patrn_de_diapositivas.md)
 * [U4 Número y pie de página](u4_nmero_y_pie_de_pgina.md)
 * [Para saber más](para_saber_ms3.md)
 * [Aplicación didáctica](aplicacin_didctica3.md)
 
-<!--
-### Módulo 4. PREPARATIVOS. | MÓDULO 5: Animando nuestra presentación, notas de orador y preparativos preponencia 
-* [Módulo 4. PREPARATIVOS.](index4.md)
+
+### 4. Animando nuestra presentación, notas de orador y preparativos preponencia 
+* [PREPARATIVOS.](index4.md)
 * [Contenidos](contenidos4.md)
 * [U.1.	Insertar notas de orador](u1insertar_notas_de_orador.md)
 	* [Práctica 4.1.1](prctica_411.md)
@@ -100,8 +100,9 @@ ____
 * [Para saber más](para_saber_ms4.md)
 * [Aplicación Didáctica](aplicacin_didctica4.md)
 
-### Módulo 5. MULTIMEDIA | MÓDULO 5: Multimedia vídeo y sonido 
-* [Módulo 5. MULTIMEDIA](index5.md)
+
+### 5. Multimedia vídeo y sonido 
+* [MULTIMEDIA](index5.md)
 * [Contenidos](contenidos5.md)
 * [U.1. Insertar Sonido y películas](u1_insertar_sonido_y_pelculas.md)
 * [U.2 Sonidos](u2_sonidos.md)
@@ -113,7 +114,6 @@ ____
 	* [Grabar sonido](grabar_sonido.md)
 	* [Desde archivo](desde_archivo.md)
 	* [Desde CD](desde_cd.md)
-	* [Práctica 5.2](prctica_52.md)
 	* [Edición de sonido](edicin_de_sonido.md)
 	* [Práctica 5.3](prctica_53.md)
 	* [¿Cómo conseguir archivos de sonido?](cmo_conseguir_archivos_de_sonido.md)
@@ -124,9 +124,9 @@ ____
 	* [Desde Internet](desde_internet.md)
 	* [ATENCIÓN](atencin.md)
 	* [Edición](edicin.md)
-	* [¿Dónde podemos conseguir vídeos educativos?](dnde_podemos_conseguir_vdeos_educativos.md)
 * [Para saber más: Grabar, editar sonido y vídeo](para_saber_ms_grabar_editar_sonido_y_vdeo.md)
 * [Aplicación didáctica](aplicacin_didctica5.md)
+-->
 
 ### Módulo 6: OTROS PROGRAMAS | Módulo 6: Otros programas de presentaciones 
 * [Módulo 6: OTROS PROGRAMAS](index6.md)
@@ -154,7 +154,6 @@ ____
 * [Aplicaciones didácticas](aplicaciones_didcticas.md)
 	* [Ejemplo de trabajo con presentaciones, 2º ciclo de Primaria](ejemplo_de_trabajo_con_presentaciones_2_ciclo_de_primaria.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
--->
 ___
 
 * [Créditos](crditos.md)

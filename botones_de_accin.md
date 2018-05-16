@@ -66,25 +66,30 @@ Ahora podemos cambiar diferentes elementos, entre ellos el **color**, si elegimo
 
 Ya lo tenemos a nuestro gusto. Ahora es el momento de insertar dicho botón al resto de las diapositivas salvo la primera, ¿hay alguna manera de hacer esto automáticamente?
 
-var feedback105_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Pues claro que sí, utilizando el Patrón de diapositivas para ello insertamos los botones en el patrón de diapositivas por ejemplo en el pie de página, pero no en el patrón de títulos (la primera diapositiva tiene que ser de sólo título como es lo habitual)
 
 
 ![](img/m471.png)
 
+%/accordion%
 
-## Atención
 
-No hagas hipervínculos a documentos con los botones de acción, suelen hacer rutas absolutas.
 
-Los botones de acción de ir a diapositiva siguiente, anterior, principio y fin, son botones que se repiten en varias diapositivas, por lo que nuestro consejo es realizarlo en la vista patrón para conseguir uniformidad.
 
-Sería una tontería hacerlos en la vista normal: Uno saldría hacia arriba, otros hacia abajo, además de realizar un trabajo de tontos. **Se hace en la vista patrón**, y se consigue que sólo se hace una vez y uniformidad en la presentación.
+>**danger**
+>
+>## Atención
+>
+>No hagas hipervínculos a documentos con los botones de acción, suelen hacer rutas absolutas.
+>
+>Los botones de acción de ir a diapositiva siguiente, anterior, principio y fin, son botones que se repiten en varias diapositivas, por lo que nuestro consejo es realizarlo en la vista patrón para conseguir uniformidad.
+>
+>Sería una tontería hacerlos en la vista normal: Uno saldría hacia arriba, otros hacia abajo, además de realizar un trabajo de tontos. **Se hace en la vista patrón**, y se consigue que sólo se hace una vez y uniformidad en la presentación.
 
-**Agregar botones en OpenOffice Impress**
+
+### Agregar botones en OpenOffice Impress
 
 Podemos insertar cualquier Objeto y ponerle interactividad.
 
@@ -98,7 +103,7 @@ Podemos insertar cualquier Objeto y ponerle interactividad.
 
 Pero también podemos insertar objetos más complicados:
 
-## Para agregar un botón a un documento
+#### Para agregar un botón a un documento
 
 1.  Eligimos **Ver - Barras de herramientas - Campos de control de formulario**.
     
@@ -135,7 +140,7 @@ Pero también podemos insertar objetos más complicados:
 
 
 
-**Agregar Formas en Drive**
+#### Agregar Formas en Drive
 
 Drive nos sigue sorprendiendo por su sencillez, podemos insertar botones o más bien formas de varias formas, dentro de la propia presentación o preparar un dibujo para utilizarlo después, lo mostramos en las dos figuras siguientes:
 
@@ -168,15 +173,12 @@ Las **flechas** predibujadas que apuntan hacia delante y hacia atrás son un ej
 ![Flecha con enlace](img/flecha-con-enlace.png "Flecha con enlace")
 
 
-**Añadir Figuras en Keynote**
+### Añadir Figuras en Keynote
 
 **Añadir una figura**
 
 
-1.  Clic en Figura ![Botón Figura](http://help.apple.com/keynote/mac/6.0/es.lproj/Art/IL_Shape.png) en la barra de herramientas.
-
-    
-    Para ver más estilos de figura, clic en las flechas.
+1.  Clic en Figura ![Botón Figura](http://help.apple.com/keynote/mac/6.0/es.lproj/Art/IL_Shape.png) en la barra de herramientas. Para ver más estilos de figura, clic en las flechas.
     
 2.  Seleccionamos una figura para añadirla a la diapositiva.
     

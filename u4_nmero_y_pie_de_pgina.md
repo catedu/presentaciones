@@ -1,6 +1,6 @@
 # U4 Número y pie de página
 
-**3.1.     PowerPoint**
+### 3.1. PowerPoint
 
 **1** Vamos a la pestaña **Insertar** >  **2** **Número de diapositiva**
 
@@ -20,17 +20,17 @@ También podemos poner una fecha y hora (que se actualice automáticamente o fij
 
 Si no queremos que aparezcan estos datos en la primera diapositiva de título, marcamos la última opción rodeada de amarillo del gráfico superior.
 
-**3.2.     En OpenOffice**
+### 3.2.     En OpenOffice
 
 
-**![Insertar número y Pie de página en OpenOffice](img/insertarnumeropagopenoff.png "Insertar nº y pie de página en Impress")**
-
-
-
+![Insertar número y Pie de página en OpenOffice](img/insertarnumeropagopenoff.png "Insertar nº y pie de página en Impress")
 
 
 
-**3.3.     En Drive**
+
+
+
+### 3.3.     En Drive
 
 Veamos el enlace:
 
@@ -38,11 +38,11 @@ Veamos el enlace:
 
 Lo más rápido sería insertar un cuadro de texto y colocarlo donde queramos
 
+![](img/Como_anadir_numeros_de_pagina_y_el_total_de_paginas_en_Documentos_de_Google___Ayuda_de_Drive.png)
 
 
 
-
-**3.4.     En Keynote**
+### 3.4.     En Keynote
 
 ### **Cómo añadir números de diapositiva**
 

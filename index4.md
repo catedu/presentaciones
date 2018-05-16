@@ -1,4 +1,4 @@
-# Módulo 4. PREPARATIVOS.
+# PREPARATIVOS.
 
 Llega el momento Pre-presentación. Ya tengo todo listo, debo preparar unas **notas de orador**, para que no se me olvide nada, debo **imprimir** algún **guión** para mi audiencia y para seguir el hilo como emisor de la ponencia, orden, anécdotas, datos curiosos, plan sorpresa, vídeos, música etc.
 

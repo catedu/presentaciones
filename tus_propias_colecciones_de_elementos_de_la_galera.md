@@ -1,6 +1,6 @@
 # Tus propias colecciones de elementos de la Galería
 
-**Descargar un elemento de la Galería Multimedia Online en PowerPoint**
+### Descargar un elemento de la Galería Multimedia Online en PowerPoint
 
 Un elemento de la Galería Multimedia de la colección Web puede ser interesante tenerla descargada por si no tenemos conexión de Internet, o para crearnos nuestra propia colección de elementos favoritos a mano.
 
@@ -33,34 +33,32 @@ Un elemento que no esté en la Web también puedes llevarlos a tu colección par
 En la Galería Multimedia, sólo seleccionando tu colección
 
 
-![](img/sonido5.PNG)
-
-
-
-( Fig.5.2.c.3: J.Quintana, montaje pantalla captura programa, ![Atribución — Debe reconocer los créditos de la obra de la manera especificada por el autor o el licenciante (pero no de una manera que sugiera que tiene su apoyo o que apoyan el uso que hace de su obra). No Comercial — No puede utilizar esta obra para fines comerciales. Compartir bajo la Misma Licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.](img/1algunosderechosreservados.png "Licencia Atribución, no comercial y Compartir bajo la Misma Licencia")[![Atribución](http://l.yimg.com/g/images/spaceout.gif "Atribución")![No comercial](http://l.yimg.com/g/images/spaceout.gif "No comercial")![Compartir bajo la misma licencia](http://l.yimg.com/g/images/spaceout.gif "Compartir bajo la misma licencia")](http://creativecommons.org/licenses/by-nc-sa/2.0/) [Algunos derechos reservados](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.es "Derechos reservados. Atribución-NoComercial-CompartirIgual 2.0 Genérica (CC BY-NC-SA 2.0)"))
+![J.Quintana, montaje pantalla captura programa](img/sonido5.PNG)
 
 
 ## Una duda
 
 Este capítulo de crear tu  propia colección de elementos Multimedia es aplicable no sólo a sonidos, sino también a Imágenes y vídeos ¿por qué explicarlo en esta Unidad de sonidos?
 
-var feedback128_9text = "Mostrar retroalimentación";
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Normalmente el contenido de la Galería Multimedia con Imágenes y Vídeos es un poco pobre (recuerda que en vez de vídeos, son imágenes animadas) y en Internet tanto la búsqueda de imágenes por Google como la búsqueda de vídeos por Youtube dan buenos resultados.
 
 Pero el sonido la cosa cambia, es un poco más difícil encontrar sonidos de efectos sonoros en Internet, y la colección que hay en la Galería Multimedia está bien. Luego hemos querido exponer la forma de crear tu propia colección en el capítulo donde lo necesitarás: Sonidos.
 
-**Descargar un elemento de la Galería Multimedia en Open Office**
+%/accordion%
+
+
+
+### Descargar un elemento de la Galería Multimedia en Open Office
 
 Repasar el apartado anterior Galería Multimedia de Open Office impress
 
 
-**![](img/openclipart-banner.png)**
+![](img/openclipart-banner.png)
 
 
-**Instalar el cliente desde la web de google.com/drive.**
+### Instalar el cliente desde la web de google.com/drive.
 
 Para sincronizar nuestros documentos locales con Google Drive tendriamos que instalar el cliente desde la web de google.com/drive.
 
@@ -91,7 +89,7 @@ Para Mac:
 7.  Seguir todos los pasos de la instalación.
 8.  Iniciar sesión en Google Drive para tu Mac en la barra de herramientas. Arrastrar archivos y carpetas a la carpeta de Google Drive para comenzar la sincronización de elementos en **Mi unidad** (parte de Google Drive en la Web).
 
-**Instalar aplicaciones en Google Drive**
+### Instalar aplicaciones en Google Drive
 
  Google Drive se comporta como un disco duro local incluso en el terreno de las aplicaciones.
 
@@ -105,7 +103,7 @@ En la **Chrome Web Store** tenemos disponible una tienda de aplicaciones virtual
 
 
 
-**Colecciones de elementos en Keynote**
+### Colecciones de elementos en Keynote
 
 Si nos faltan elementos, imágenes, fotos música , vídeos, los podemos bajar de iTunes (Pero claro deberemos ver el coste)
 

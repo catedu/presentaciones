@@ -8,12 +8,12 @@ Intenta ser coherente con los elementos de animación establecidos para cada dia
 
 Elige el efecto de animación en función a cómo va a trabajar con el elemento al que se le aplica la animación. Así si presenta una información para posteriormente debatirla, conviene que dicha información se atenúe después de la animación
 
-**PowerPoint**
+### PowerPoint
 
-Repasar efectos de animación, ver enlace o mirarlo en la ventana inferior: [http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/unidad\_2\_efectos\_de\_animacin.html](http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/unidad_2_efectos_de_animacin.html)
+Repasar efectos de animación, ver enlace o mirarlo en la ventana inferior: [http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/unidad\_2\_efectos\_de\_animacin.html](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/unidad_2_efectos_de_animacin.html)
 
 
-[![Animar Objetos](img/animar-objetos.png "Animar Objetos")](http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/422_animar_objetos.html "Animar Objetos")
+[![Animar Objetos](img/animar-objetos.png "Animar Objetos")](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007/422_animar_objetos.html "Animar Objetos")
 
 
 
@@ -38,11 +38,11 @@ Personalizar animación:
 
 
 
-**2.2. En OpenOffice**
+### 2.2. En OpenOffice
 
 Nos vamos a la pestaña Presentación, desde allí podemos lanzar la presentación, como en PowerPoint podemos también iniciarla haciendo clic a la tecla (**F5**).  Podemos Configurar la **presentación,** en Iniciar la presentación (ventana emergente), podremos configurar que nos la muestre a partir de una determinada página, variar el **Tipo** de predeterminado, ventana o auto a partir de un tiempo. Podemos modificar las **Opciones** cambiando puntero ratón, ver navegador, permitir o no animaciones etc. En este apartado tenemos configuración de varios monitores, pero lo veremos más adelante.
 
-
+![](img/iniciarpresentacionopenoff.png)
 
 
 
@@ -72,7 +72,7 @@ Podemos modificar en un objeto de la presentación su:
 
 
 
-**2.3  En Drive**
+### 2.3  En Drive
 
 PRESENTACIONES
 
@@ -120,7 +120,7 @@ Clic con el botón derecho en una figura y selecciona **Aplicar animación**.
 
 
 
-**15.4. En Keynote**
+### 15.4. En Keynote
 
 Las presentaciones a pantalla completa permiten obtener el máximo partido de las prestaciones gráficas y las animaciones de gran calidad que ofrece Keynote. Podemos realizar presentaciones a pantalla completa en la pantalla del ordenador, en una segunda pantalla o en un proyector externo de gran tamaño, y podemos reproducir películas y sonido durante la presentación.
 
@@ -128,3 +128,5 @@ Las presentaciones a pantalla completa permiten obtener el máximo partido de la
 
 [http://internet-y-ordenadores.practicopedia.lainformacion.com/programas/como-anadir-efectos-a-una-presentacion-en-keynote-11983](http://internet-y-ordenadores.practicopedia.lainformacion.com/programas/como-anadir-efectos-a-una-presentacion-en-keynote-11983)
 
+
+{% youtube %}https://youtu.be/9CiYsrXvQkY{% endyoutube %}

@@ -1,12 +1,10 @@
 # Para saber más
 
-## ParaSaberMas
-
 Existen muchas formas de llegar a una página web. Tenemos la posibilidad de buscarla en nuestros **marcadores**, **favoritos**, **hipervínculos** e incluso hay quien busca el nombre de esa página en Google. Aunque la manera más tradicional de ir a ella es introducir la dirección en la barra de dirección de nuestro navegador.
 
 En el navegador Chrome con **ctrl+ H** vamos al historial. ¿Te atreves a probarlo en otros navegadores para ver si funciona también **Ctrl+H**?
 
-**Borrar el Historial**
+### Borrar el Historial
 
 En ocasiones es muy conveniente eliminar del equipo el historial de navegación guardado o es decir, la información de las páginas que han sido visitadas.  
   
@@ -26,7 +24,7 @@ Usa el botón: "Eliminar datos de navegación".
 
 En Firefox usa las teclas: Control+Shift+Del para abrir la ventana de "Limpiar el historial reciente".
 
-**En Safari**
+#### En Safari
 
  Para borrar los datos almacenados por el navegador Safari:
 

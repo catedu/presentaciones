@@ -58,7 +58,8 @@ El manejo es muy sencillo para conseguir estos propósitos.
 
 ## Para saber más de Audacity
 
-Aquí te mostramos un vídeo tutorial de unos pocos minutos para conocer lo básico de este programa y más abajo un tutorial completo en pdf:
+Aquí te mostramos un vídeo tutorial de unos pocos minutos para conocer lo básico de este programa:
 
-**Manual Audacity:** [http://www.juntadeandalucia.es/averroes/reinafabiola/formacion/materiales/audacity2.pdf](http://www.juntadeandalucia.es/averroes/reinafabiola/formacion/materiales/audacity2.pdf)
+{% youtube %}https://youtu.be/5BUW0FKKfg0{% endyoutube %}
+
 
