@@ -21,3 +21,5 @@ Hemos querido dar paso:
 Aprenderemos, los protocolos básicos de conexión, cableados, a utilizar varias pantallas…
 
 En conclusión, deseamos que vosotros elijáis el programa que vais a utilizar para crear vuestra presentaciones sin perder de vista la utilidad docente para exponer contenidos y trabajar de forma muy motivadora y amplias posibilidades.
+
+![](img/presentation.svg)
