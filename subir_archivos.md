@@ -25,16 +25,10 @@ Podemos compartir el contenido, a través de plataformas sociales como LinkedIn
 
 ![Subir a SlideShare](img/subir.png "Subir")
 
-
-Fig. 6.6.1
-
 Nos confirma la subida, ya podemos compartir.
 
 
 ![Confirmación subida a Slideshare](img/confirmacionsubida.png "Ver y compartir")
-
-
-Fig. 6.6.2
 
 Si quieres ver la presentación subida: [http://es.slideshare.net/cbarrabes/como-promocionarme-en-la-red](http://es.slideshare.net/cbarrabes/como-promocionarme-en-la-red)
 

@@ -6,7 +6,7 @@
 
 Fig.6.5.1 Captura y recorte de la web [http://www.sparkol.com/](http://www.sparkol.com/)
 
-**¿Qués es VideoScribe?**
+### ¿Qués es VideoScribe?
 
 Es una herramienta que permite realizar presentaciones exportables en formato de video y con agradables efectos visuales siendo el más destacado de ellos el que el texto es escrito por una mano y las imágenes dibujadas de igual forma, creando la sensación de estar frente a una pizarra o libreta.
 
@@ -30,11 +30,10 @@ Actualizaremos información en el blog:
 
 [http://claudiobarrabes.blogspot.com.es/2013/11/videoscribe.html](http://claudiobarrabes.blogspot.com.es/2013/11/videoscribe.html)
 
-[http://youtu.be/V2YU7xWmtSo](http://youtu.be/V2YU7xWmtSo)
+{% youtube %}https://youtu.be/V2YU7xWmtSo{% endyoutube %}
 
 Otro Vídeo
 
 [http://youtu.be/lk-mTOqQvMA](http://youtu.be/lk-mTOqQvMA)
 
-http://youtu.be/zDZFcDGpL4U?t=31s
-
+{% youtube %}https://youtu.be/zDZFcDGpL4U{% endyoutube %}

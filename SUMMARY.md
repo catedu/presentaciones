@@ -1,8 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-
-<!--
 ____
 ### 0. Las Presentaciones 
 * [ANTES DE EMPEZAR](index0.md)
@@ -126,9 +124,8 @@ ____
 	* [Edición](edicin.md)
 * [Para saber más: Grabar, editar sonido y vídeo](para_saber_ms_grabar_editar_sonido_y_vdeo.md)
 * [Aplicación didáctica](aplicacin_didctica5.md)
--->
 
-### Módulo 6: OTROS PROGRAMAS | Módulo 6: Otros programas de presentaciones 
+### 6. Otros programas de presentaciones 
 * [Módulo 6: OTROS PROGRAMAS](index6.md)
 * [Contenidos](contenidos6.md)
 * [U1. Prezi](u1_prezi.md)

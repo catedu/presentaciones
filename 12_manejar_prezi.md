@@ -1,6 +1,6 @@
 # 1.2. Manejar Prezi
 
-**Empezar a crear nuestro primer Prezi**
+### Empezar a crear nuestro primer Prezi
 
 Presentaciones dinámicas multimedias, colaborativa y sociales.
 
@@ -11,12 +11,9 @@ Presentaciones dinámicas multimedias, colaborativa y sociales.
 
 [![Entrar en Prezi](img/entrar.png "Entrar en Prezi Sign Up")](https://prezi.com/ "Registrarse o acceder a Prezi")
 
-
-Fig. 6.1.2
-
 También podríamos entrar con nuestra cuenta Facebook se está vinculada con el Prezi 
 
-**Cooperación on-line **
+### Cooperación on-line
 
 **C**on Prezi se puede _**trabajar de manera colaborativa con hasta diez usuarios registrados a la vez**_, que pueden editar la misma presentación al mismo tiempo.
 
@@ -68,7 +65,7 @@ Manual Prezi
 
 Manejar Prezi
 
-[http://youtu.be/sXgqHqNal4o](http://youtu.be/sXgqHqNal4o "Manejar Prezi")
+{% youtube %}http://youtu.be/sXgqHqNal4o{% endyoutube %}
 
-Efecto Fade: [http://www.youtube.com/watch?v=DgiMnq4PYYM](http://www.youtube.com/watch?v=DgiMnq4PYYM "Efecto Fade")
+{% youtube %}https://www.youtube.com/watch?v=DgiMnq4PYYM{% endyoutube %}
 

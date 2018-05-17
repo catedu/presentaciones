@@ -1,6 +1,6 @@
 # U.12 Conclusiones y Más Programas
 
-**Conclusiones:**
+### Conclusiones:
 
 Hemos podido comprobar como **[Prezi](http://prezi.com/ "Prezi") **desde que lo conocimos en sus inicios, a lo que es en la actualidad, ha cambiado y se ha simplificado para facilitar su uso.
 
@@ -40,7 +40,7 @@ Veamos algunos vídeos:
 
 [http://www.youtube.com/user/PowToon?feature=watch](http://www.youtube.com/user/PowToon?feature=watch)
 
-[http://youtu.be/9f4vIoDkp88](http://youtu.be/9f4vIoDkp88)
+{% youtube %}https://youtu.be/9f4vIoDkp88{% endyoutube %}
 
 
 [![Time Logo](img/timerime_logo.png "Líneas de tiempo")](http://timerime.com/ "Timerime")

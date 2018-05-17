@@ -29,16 +29,14 @@ La creación de presentaciones de **Impress!ve **es muy sencilla: Sólo tenemos
 Como se indicó anteriormente, **Impress!ve **contiene algunas características únicas que vienen muy bien cuando se realicen presentaciones:
 
 
-![](http://impressive.sourceforge.net/trans.png) Fig.6.3.1 [impressive.sourceforge.net](http://impressive.sourceforge.net/)
-
+![](http://impressive.sourceforge.net/trans.png)
 
 ## Transiciones de página
 
 Los efectos de transición de página no son muy útiles, pero son agradables de ver y transmiten relajación, tanto para el público y como para el presentador
 
 
-![](http://impressive.sourceforge.net/oview.png) Fig.6.3.2 [impressive.sourceforge.net](http://impressive.sourceforge.net/)
-
+![](http://impressive.sourceforge.net/oview.png)
 
 ## Pantalla Información general
 
@@ -47,7 +45,7 @@ Después de terminar su presentación, el público hace preguntas, y hay que vol
 En **Impress!ve**, sólo tenemos que pulsar la tecla \[Tab\] y la diapositiva actual va sin problemas alejar la imagen, mostrando una cuadrícula de miniaturas de todas las páginas. Ahora podemos seleccionar una de las páginas, hacer clic en él, y ver la imagen ampliada
 
 
-![](http://impressive.sourceforge.net/hlbox.png) Fig.6.3.3 [impressive.sourceforge.net](http://impressive.sourceforge.net/)
+![](http://impressive.sourceforge.net/hlbox.png)
 
 
 ## Cajas de luz
@@ -59,8 +57,7 @@ Podemos configurar varios cuadros que destacan por página. Para eliminar un cu
 Si sale una página que tiene cajas, las cajas automáticamente se restaurarán si volvemos a entrar en el localizador más tarde. Al pulsar la tecla \[S\], podemos incluso salvar los puestos de caja en el disco y volver a utilizarlos la próxima vez que iniciemos la presentación.
 
 
-![](http://impressive.sourceforge.net/spotlite.png) Fig.6.3.4 [impressive.sourceforge.net](http://impressive.sourceforge.net/)
-
+![](http://impressive.sourceforge.net/spotlite.png)
 
 ## Efecto del proyector
 

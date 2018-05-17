@@ -3,18 +3,15 @@
 
 [![ClearSlide](img/ClearSlide___Sell_Smarter_and_Close_More_Deals.png "ClearSlide")](https://www.clearslide.com/)
 
-
- [https://www.clearslide.com/](https://www.clearslide.com/ "ClaerSlide")
-
-**¿Qué es ClearSlide?**
+### ¿Qué es ClearSlide?
 
 Se trata de una herramienta para **almacenar, optimizar, compartir y analizar presentaciones. **
 
- Permite crear presentaciones on line de mucha calidad, así como editarlas y compartirlas
+Permite crear presentaciones on line de mucha calidad, así como editarlas y compartirlas
 
 ClearSlide Power User Event 2013
 
-[http://youtu.be/BBL1Ee56DLM?t=3m4s](http://youtu.be/BBL1Ee56DLM?t=3m4s "Evento ClearSlide")
+{% youtube %}http://youtu.be/BBL1Ee56DLM?t=3m4s{% endyoutube %}
 
 ClearSlide compró el servicio de presentaciones interactivas online SlideRocket.
 

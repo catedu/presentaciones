@@ -4,9 +4,7 @@
 [![Calameo Publicar compartir navegar](img/Calameo_logo___Publicar_y_compartir_documentos.png "Calameo Periódico digital")](http://es.calameo.com/ "Ir a Web de Calaméo")
 
 
-[http://es.calameo.com/](http://es.calameo.com/)
-
-**¿Qué es Calaméo?**
+### ¿Qué es Calaméo?
 
 **Calaméo** una **plataforma** para publicar, buscar y compartir documentos en línea. Se pueden organizar las publicaciones en subscripciones. También se pueden añadir comentarios e iniciar discusiones sobre cada publicación.
 
@@ -31,14 +29,8 @@
         *   Descarga directa
 
 
-**![calaméo Explorar](img/calameo.png "Revistas, álbumes, catálogos...")**
-
-
-Fig. 6.9.1 
+![calaméo Explorar](img/calameo.png "Revistas, álbumes, catálogos...")
 
 Ejemplo del CRA Arco Iris (Prov. Huesca)
 
 [http://www.calameo.com/read/0000488584bbe466188af](http://www.calameo.com/read/0000488584bbe466188af)
-
- Veamos un Vídeo:
-

@@ -1,12 +1,10 @@
 # U7. Scribd
 
 
-**[![Scribd](img/Scribd.png "Lea Libros")](http://es.scribd.com/ "Ir a la web  http://es.scribd.com/") **
+[![Scribd](img/Scribd.png "Lea Libros")](http://es.scribd.com/ "Ir a la web  http://es.scribd.com/")
 
 
-[http://es.scribd.com/](http://es.scribd.com/)
-
-**¿Que es Scribd?**
+### ¿Que es Scribd?
 
 Es una **plataforma de gestión de contenidos** \- que consta de sitios web, servicios, aplicaciones de software y redes - que permite la **carga** autorizada, descargar, comprar , la venta, el intercambio y distribución de contenidos digitales por escrito a través de Internet.
 
@@ -26,3 +24,4 @@ Fuente: [http://es.scribd.com/about](http://es.scribd.com/about)
 
 Veamos un vídeo:
 
+{% youtube %}https://youtu.be/nLb3AdMznE8{% endyoutube %}

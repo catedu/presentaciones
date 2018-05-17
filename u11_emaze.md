@@ -13,7 +13,5 @@ Es muy sencillo de utilizar y los resultados son espectaculares.
 
 Una breve guía de Emaze realizada con el propio Emaze puede resultar ilustrativa acerca de este servicio.
 
-
-[![Powered by emaze](img///resources.emaze.com/mypres/css/images/embed.png)](https://www.emaze.com)
-
+[Guía emaze](https://www.emaze.com/@AFROCILO/emaze-gua-breve)
 

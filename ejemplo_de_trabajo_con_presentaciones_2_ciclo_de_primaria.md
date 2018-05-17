@@ -16,7 +16,7 @@ Podemos plantear éste trabajo para sumar esfuerzo como práctica didáctica gen
 
 El trabajo brindaremos las herramientas teóricas o la reflexión necesaria para que sea productivo, podemos preparar listados web, presentaciones ya existentes, para que no se pierdan el la red. Realizaremos una distribución de tareas y un reparto de responsabilidades, rellenando una ficha que así lo refleje, que nos servirá posteriormente para la evaluación. También podremos trabajar en un **grupo cooperativo**, donde los integrantes buscan participar con el objetivo de aprender de la interacción con sus compañeros, como combinación de lo anterior.
 
-****Grupos cooperativos** **
+### Grupos cooperativos
 
 1.  Alumnado **comprometido** con el objetivo grupal de maximizar el aprendizaje.
     
@@ -32,8 +32,8 @@ El trabajo brindaremos las herramientas teóricas o la reflexión necesaria para
     
 7.  El éxito es de todo el grupo o no hay éxito.
 
-**  
-Cuadro básico de la propuesta didáctica**: 
+
+### Cuadro básico de la propuesta didáctica: 
 
 ÁREA: CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y CULTURAL.
 
@@ -72,99 +72,17 @@ Actitudes
 
 Podemos utilizar una matriz de evaluación similar a esta:
 
-Insuficiente consolidación
+||Insuficiente consolidación 1|Aprendizaje medio 2|Buen aprendizaje 3|Excelencia en el aprendizaje 4|Notación numérica|
+|::|::|::|::|::|::|
+|Tema|Temática incompleta.|No ha sido del todo completo, falta de profundidad en determinadas tareas.|La temática ha sido correctamente tratada y presentada al grupo-clase.|El tema ha sido trabajado y presentado de manera excelente. Muy completo.||
+|Tareas|No completaron la mayoría de las tareas y trabajaron desordenados.|Completaron algunas tareas y estas las presentaron desordenadas.|Completaron las tareas y trabajaron en común realizando el trabajo|Completaron todos los apartados y aportaron datos nuevos||
+|Búsqueda de información|Deficiente búsqueda de información, datos no correctos. Falta de rigor.|Falta de rigor en la búsqueda, datos incompletos.|Búsqueda correcta acorde a los contenidos.|La búsqueda ha sido exhaustiva. Se ha ampliado la bibliografía.||
+|Ortografía|Oraciones incompletas, faltas de concordancia y excesivas faltas de ortografía.|Numerosos errores gramaticales|Presenta algún error gramatical.|No tiene errores gramaticales.||
+|Presentación|Presenta el trabajo desordenado y se ve una simple copia o pegado de información.|Presentó el trabajo de forma simple. En algunos apartados la información es pobre.|La presentación del trabajo es buena. Utilizó los recursos propuestos.|Excelente presentación. Ha utilizado recursos de Internet y otros.||
+|Esfuerzo e interés|Falta de esfuerzo, coordinación y colaboración en equipo|Esfuerzo y colaboración irregular.|Se han esforzado y colaborado en grupo|Han mostrado un esfuerzo desmesurado y la colaboración ha sido máxima.||
+|Preparación desayuno|Falta de preparación de la tarea, ingredientes incompletos. Nula coordinación|Presentación y preparación aceptable.|Buena presentación y preparación.|Inmejorable presentación y preparación del Desayuno saludable. Excelente selección de alimentos.|.|
 
-1
 
-Aprendizaje medio
-
-2
-
-Buen aprendizaje
-
-3
-
-Excelencia en el
-
-aprendizaje
-
-4
-
-Notación
-
-numérica
-
-** Tema**
-
-Temática incompleta.
-
-No ha sido del todo completo, falta de profundidad en determinadas tareas.
-
-La temática ha sido correctamente tratada y presentada al grupo-clase.
-
-El tema ha sido trabajado y presentado de manera excelente. Muy completo.
-
-**Tareas**
-
-No completaron la mayoría de las tareas y trabajaron desordenados.
-
-Completaron algunas tareas y estas las presentaron desordenadas.
-
-Completaron las tareas y trabajaron en común realizando el trabajo
-
-Completaron todos los apartados y aportaron datos nuevos
-
-**Búsqueda de información**
-
-Deficiente búsqueda de información, datos no correctos. Falta de rigor.
-
-Falta de rigor en la búsqueda, datos incompletos.
-
-Búsqueda correcta acorde a los contenidos.
-
-La búsqueda ha sido exhaustiva,
-
-Se ha ampliado la bibliografía.
-
-**Ortografía**
-
-Oraciones incompletas, faltas de concordancia y excesivas faltas de ortografía.
-
-Numerosos errores gramaticales
-
-Presenta algún error gramatical.
-
-No tiene errores gramaticales.
-
-** Presentación**
-
-Presenta el trabajo desordenado y se ve una simple copia o pegado de información.
-
-Presentó el trabajo de forma simple. En algunos apartados la información es pobre.
-
-La presentación del trabajo es buena. Utilizó los recursos propuestos.
-
-Excelente presentación. Ha utilizado recursos de Internet y otros.
-
-**Esfuerzo e interés**
-
-Falta de esfuerzo, coordinación y colaboración en equipo
-
-Esfuerzo y colaboración irregular.
-
-Se han esforzado y colaborado en grupo
-
-Han mostrado un esfuerzo desmesurado y la colaboración ha sido máxima.
-
-**Preparación desayuno**
-
-Falta de preparación de la tarea, ingredientes incompletos. Nula coordinación
-
-Presentación y preparación aceptable.
-
-Buena presentación y preparación.
-
-Inmejorable presentación y preparación del Desayuno saludable. Excelente selección de alimentos.
 
 **E) Materiales:**
 

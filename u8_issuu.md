@@ -3,10 +3,7 @@
 
 [**![Issuu Lectura Libros Revistas](img/ISSUU___You_Publish.png "Libros, revistas, periódicos")**](http://issuu.com/ "Ir ala Web Issuu http://issuu.com/")
 
-
-[http://issuu.com/](http://issuu.com/)
-
-**¿Qué es Issuu?**
+### ¿Qué es Issuu?
 
 **Issuu,** fundado en 2007, es un servicio en línea que permite la _**visualización**_ de material digitalizado electrónicamente, como **libros, portafolios, números de revistas, periódicos, y otros medios impresos** de forma realista y personalizable. El servicio que ofrece Issuu en el área de publicación se puede comparar con lo que [Flickr](http://es.wikipedia.org/wiki/Flickr "Flickr") hace para compartir fotografías, y lo que [YouTube](http://es.wikipedia.org/wiki/YouTube "YouTube") hace para compartir video. El material subido al sitio es visto a través de un [navegador web](http://es.wikipedia.org/wiki/Navegador_web "Navegador web") y está hecho para parecerse lo más posible a una publicación impresa, con un formato que permite la visualización de dos páginas a la vez (como un libro o una revista abiertos) y una vuelta a la página animada...
 
@@ -22,3 +19,4 @@ En lo que hace a la visualización, para acceder a las revistas debes estar dent
 
  Veamos un vídeo:
 
+{% youtube %}https://youtu.be/LmH4jpk4C1g{% endyoutube %}

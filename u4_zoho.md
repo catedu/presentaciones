@@ -36,5 +36,3 @@ Presentaciones: [http://youtu.be/ZjnjpxU9xn8?t=7m56s](http://youtu.be/ZjnjpxU9x
  ![Producto ZOHO](img/zoho.png "Zoho")
 
 
- Fig. 6.4.1
-

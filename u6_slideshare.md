@@ -3,10 +3,7 @@
 
 [![Logo Slideshare](img/logoslideshare.png "Slideshare")](http://es.slideshare.net "Ir a la web http://es.slideshare.net")
 
-
-**http://****[es.slideshare.net](http://es.slideshare.net/)**
-
-**¿Qué es Slideshare?**
+### ¿Qué es Slideshare?
 
 1.  SlideShare es un sitio web que ofrece a los usuarios la posibilidad de subir y compartir en público o en privado presentaciones de diapositivas en PowerPoint, documentos de Word, OpenOffice, PDF, Portafolios. ...
     
@@ -67,9 +64,11 @@ No es posible sustituir un archivo de vídeo una vez que se hayan cargado. 
 
 Debemos respetar los derechos de autor y no subir material que tenga esos derechos protegidos. Consejo crear nuestros propios materiales y usar nuestras propias fotos.
 
- Veamos un vídeo:
+Veamos un vídeo:
+
+{% youtube %}https://youtu.be/Ij4hK4BF7Cc{% endyoutube %}
 
 Podemos repasar los viejos apuntes.  Cuidado, a veces los programas cambian mucho de un año para otro, como le pasó a Prezi.
 
-[http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/21_registrarse.html](http://www.aularagon.org/Files/UserFiles/File/Forprof/PowerPoint2007/21_registrarse.html)
+[http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007](http://aularagon.catedu.es/materialesaularagon2013/presentaciones/PowerPoint2007)
 

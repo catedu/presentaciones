@@ -28,16 +28,10 @@ Texto anterior modificado de: Colaboradores de Wikipedia, "Prezi," _Wikipedia,
 
 ![Licencias Prezi](img/preziprecios.png "Diferencias Licencias Prezi")
 
-
-Fig 6.1.1
-
 Para educación podemos elegir las licencias de Maestros y estudiantes. Elegir la Edu que nos ofrece 500 MB de espacio de almacenamiento, si nos interesa más espacio podemos elegir la Edu Pro.
 
 
 ![Licencias Prezi Profesorado y estudiantes](img/preziprofesoresestudiantes.png "Prezi para educación")
-
-
-Fig 6.1.2
 
 **Funciones**
 

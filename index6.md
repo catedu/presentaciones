@@ -1,6 +1,6 @@
-# Módulo 6: OTROS PROGRAMAS
+# OTROS PROGRAMAS
 
-**¡No todo es PowerPoint!**
+### ¡No todo es PowerPoint!
 
 Vamos a conocer una serie de programas, algunos ellos impactantes, diferentes, privativos, Open Source (código abierto), otros con parte gratis y con extras de pago, con licencias educativas, en la nube...
 

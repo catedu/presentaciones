@@ -3,10 +3,7 @@
 
 [![Glogster Edu](img/Glogster_EDU__A_complete_educational_solution_for_digital_and_mobile_teaching_and_learning..png "Glogster ")](http://www.glogster.com/ "Glogster")
 
-
-[http://www.glogster.com/](http://www.glogster.com/)
-
-**¿Qué es Glogster?**
+## ¿Qué es Glogster?
 
 Glogster EDU es la plataforma líder mundial de educación para la expresión creativa de los conocimientos y las habilidades en el aula y fuera de ella. (Dicen)  Motivamos a los educadores y estudiantes con la tecnología para crearGLOGS - **posters multimedia en línea** \- con texto, fotos, vídeos, gráficos, sonidos, dibujos, archivos adjuntos de datos y más.
 
@@ -112,8 +109,6 @@ Otra cosa que nos ha sorprendido, es la motivación económica, premiando a los 
 
 ![Diferentes Planes de Glogster](img/glogster.png "Plan Glogster")
 
-
-Fig. 6.10.1
-
 Veamos un vídeo:
 
+{% youtube %}https://youtu.be/zrs54wnwktQ{% endyoutube %}
