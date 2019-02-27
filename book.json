@@ -32,15 +32,13 @@
                 "showExplanation": true
             }
         },
-        "pluginsConfig": {
-            "edit-link": {
-                "base": "https://github.com/catedu/presentaciones/edit/master",
-                "label": "Edita esta página"
-            },
-            "githubcontributors": {
-                "githubOwner": "catedu",
-                "githubRepository": "presentaciones"
-            }
+        "edit-link": {
+            "base": "https://github.com/catedu/presentaciones/edit/master",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "presentaciones"
         }
     }
 }
