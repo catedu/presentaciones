@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz", "edit-link", "githubcontributors"],
     "language": "es",
     "variables": {
         "title": "Presentaciones con PowerPoint y otras herramientas",
@@ -30,6 +30,16 @@
             "buttons": {
                 "showCorrect": true,
                 "showExplanation": true
+            }
+        },
+        "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/catedu/presentaciones/edit/master",
+                "label": "Edita esta página"
+            },
+            "githubcontributors": {
+                "githubOwner": "catedu",
+                "githubRepository": "presentaciones"
             }
         }
     }
