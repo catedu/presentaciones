@@ -1,44 +1,60 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz", "edit-link", "githubcontributors"],
-    "language": "es",
-    "variables": {
-        "title": "Presentaciones con PowerPoint y otras herramientas",
-        "author": "Claudio Barrabés Naval",
-        "collaborators": [
-            { "name": "_________", "edited": "_____________" }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "quiz",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Presentaciones con PowerPoint y otras herramientas",
+    "author": "Claudio Barrabés Naval",
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "quiz": {
-            "labels": {
-                "check": "Comprobar",
-                "showExplanation": "Retroalimentación",
-                "showCorrect": "Mostrar la respuesta correcta",
-                "explanationHeader": "Explicación"
-            },
-            "text": {
-                "noChosen": "Elige al menos una respuesta",
-                "incomplete": "Faltan algunas respuestas correctas"
-            },
-            "buttons": {
-                "showCorrect": true,
-                "showExplanation": true
-            }
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/presentaciones/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "presentaciones"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "quiz": {
+      "labels": {
+        "check": "Comprobar",
+        "showExplanation": "Retroalimentación",
+        "showCorrect": "Mostrar la respuesta correcta",
+        "explanationHeader": "Explicación"
+      },
+      "text": {
+        "noChosen": "Elige al menos una respuesta",
+        "incomplete": "Faltan algunas respuestas correctas"
+      },
+      "buttons": {
+        "showCorrect": true,
+        "showExplanation": true
+      }
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/presentaciones/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "presentaciones"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
