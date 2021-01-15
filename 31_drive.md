@@ -44,5 +44,5 @@ Podemos compartir a través del Gmail, g+ (grupo de google), Facebook o Twitter 
 
 ## Para saber más de Drive
 
-*   [Curso sobre Google Drive en Aularagón](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/)
+*   [Curso sobre Google Drive en Aularagón](https://catedu.github.io/curso-google-drive/)
 
